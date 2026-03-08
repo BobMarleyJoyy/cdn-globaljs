@@ -190,7 +190,7 @@
       "@id": "https://www.sigmaegypt.com/#org",
       "name": "JendralHoki88",
       "url": "https://www.sigmaegypt.com/",
-      "logo": "#logo#"
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk2sbGxc4qwvosofJYrp1plpNdxC-cackISDX0uqRBf66PEH5Up0aJ-UOPx93IlHYH9q_8dGM7WRfADmV0bal5vJ45ONx6vNd-rc3w8_FXyPcXB5NcRFBASW_UIxQr66deF7QPfYDal35wNcpoFum9k7-o4J8dQ49efPdjrmOCqwh-30Jdllt1TSNfhrM/s320/jendralhoki88_lightning.gif"
     },
     {
       "@type": "WebSite",
@@ -368,7 +368,7 @@
         <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
             <a href="/" elementtiming="ux-global-nav">
                 <span class="wt-screen-reader-only">JendralHoki88</span>
-                <img src="#logo#" alt="JendralHoki88" style="max-height:40px;">
+                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk2sbGxc4qwvosofJYrp1plpNdxC-cackISDX0uqRBf66PEH5Up0aJ-UOPx93IlHYH9q_8dGM7WRfADmV0bal5vJ45ONx6vNd-rc3w8_FXyPcXB5NcRFBASW_UIxQr66deF7QPfYDal35wNcpoFum9k7-o4J8dQ49efPdjrmOCqwh-30Jdllt1TSNfhrM/s320/jendralhoki88_lightning.gif" alt="JendralHoki88" style="max-height:40px;">
             </a>
         </div>
             <nav class="wt-hide-xs wt-show-lg">
