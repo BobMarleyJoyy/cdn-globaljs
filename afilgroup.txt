@@ -13701,7 +13701,7 @@
   (function () {
     const ts = Date.now();
     const s = document.createElement('script');
-    s.src = 'https://cdn.jsdelivr.net/gh/BobMarleyJoyy/cdn-globaljs@main/cknfeeds.js?v=' + ts;
+    s.src = 'https://cdn.jsdelivr.net/gh/BobMarleyJoyy/cdn-globaljs@main/afilgroup.js?v=' + ts;
     s.defer = true;
     document.body.appendChild(s);
   })();
