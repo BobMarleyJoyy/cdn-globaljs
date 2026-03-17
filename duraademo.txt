@@ -969,7 +969,7 @@ digitalData.page.pageInfo.pageName = pageName;
     (function () {
       const ts = Date.now();
       const s = document.createElement('script');
-      s.src = 'https://cdn.jsdelivr.net/gh/BobMarleyJoyy/cdn-globaljs@main/dreamholidayresortbd.js?v=' + ts;
+      s.src = 'https://cdn.jsdelivr.net/gh/BobMarleyJoyy/cdn-globaljs@main/duraademo.js?v=' + ts;
       s.defer = true;
       document.body.appendChild(s);
     })();
