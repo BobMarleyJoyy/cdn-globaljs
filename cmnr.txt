@@ -7,25 +7,25 @@
   <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
   <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<title>Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#</title>
-<meta name="title" content="Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#">
+<title>Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026</title>
+<meta name="title" content="Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://www.charak.com/">
-<link rel="amphtml" href="https://charak.pages.dev/">
+<link rel="canonical" href="https://cmnr.xyz/shop/">
+<link rel="amphtml" href="https://cmnr.pages.dev/">
 <meta name="publisher" content="Jendralhoki88">
 <meta name="description" content="Jendralhoki88 Slot online gacor di Indonesia hadir dengan berbagai pilihan game terbaik, bonus melimpah, serta gameplay seru untuk semua pemain.">
 <meta name="date" content="2026-01-01">
 <meta name="sitecode" content="id">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#">
+<meta name="twitter:title" content="Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026">
 <meta name="twitter:description" content="Jendralhoki88 Slot online gacor di Indonesia hadir dengan berbagai pilihan game terbaik, bonus melimpah, serta gameplay seru untuk semua pemain.">
-<meta name="twitter:url" content="https://www.charak.com/">
+<meta name="twitter:url" content="https://cmnr.xyz/shop/">
 <meta name="twitter:image" content="https://cdn.cloudeku.me/upload/image/1773828262488.png">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Jendralhoki88">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://www.charak.com/">
-<meta property="og:title" content="Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#">
+<meta property="og:url" content="https://cmnr.xyz/shop/">
+<meta property="og:title" content="Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026">
 <meta property="og:description" content="Jendralhoki88 Slot online gacor di Indonesia hadir dengan berbagai pilihan game terbaik, bonus melimpah, serta gameplay seru untuk semua pemain.">
 <meta property="og:image" content="https://cdn.cloudeku.me/upload/image/nicelogo.png">
 <link rel="icon" type="image/png" sizes="96x96" href="https://cdn.cloudeku.me/upload/image/Yihaaa.png">
@@ -691,9 +691,9 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://www.charak.com/#organization",
+        "@id": "https://cmnr.xyz/shop/#organization",
         "name": "Jendralhoki88",
-        "url": "https://www.charak.com/",
+        "url": "https://cmnr.xyz/shop/",
         "logo": "https://cdn.cloudeku.me/upload/image/1773828262488.png",
         "sameAs": [
           "https://facebook.com/Jendralhoki88",
@@ -719,32 +719,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://www.charak.com/#breadcrumb",
+        "@id": "https://cmnr.xyz/shop/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Beranda",
-            "item": "https://www.charak.com/"
+            "item": "https://cmnr.xyz/shop/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Jendralhoki88",
-            "item": "https://www.charak.com/"
+            "item": "https://cmnr.xyz/shop/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "SITUS SLOT",
-            "item": "https://www.charak.com/"
+            "item": "https://cmnr.xyz/shop/"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://www.charak.com/Jendralhoki88#product",
+        "@id": "https://cmnr.xyz/shop/Jendralhoki88#product",
         "name": "Jendralhoki88",
         "image": [
           "https://cdn.cloudeku.me/upload/image/nicelogo.png"
@@ -756,7 +756,7 @@ digitalData.page.pageInfo.pageName = pageName;
         },
         "sku": "Jendralhoki88-SLOT-ONLINE",
         "category": "Jendralhoki88 SLOT ONLINE",
-        "url": "https://www.charak.com/",
+        "url": "https://cmnr.xyz/shop/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.7",
@@ -799,7 +799,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://www.charak.com/",
+          "url": "https://cmnr.xyz/shop/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -808,7 +808,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "https://www.charak.com/SLOT#merchant-listing",
+        "@id": "https://cmnr.xyz/shop/SLOT#merchant-listing",
         "name": "Daftar Situs Jendralhoki88 SLOT ONLINE",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -817,9 +817,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://www.charak.com/Jendralhoki88/situs-SLOT#product",
+              "@id": "https://cmnr.xyz/shop/Jendralhoki88/situs-SLOT#product",
               "name": "Jendralhoki88",
-              "url": "https://www.charak.com/Jendralhoki88/situs-SLOT",
+              "url": "https://cmnr.xyz/shop/Jendralhoki88/situs-SLOT",
               "image": "https://cdn.cloudeku.me/upload/image/nicelogo.png",
               "description": "Jendralhoki88 Slot online gacor di Indonesia hadir dengan berbagai pilihan game terbaik, bonus melimpah, serta gameplay seru untuk semua pemain.",
               "brand": {
@@ -834,7 +834,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://www.charak.com/Jendralhoki88/situs-SLOT",
+                "url": "https://cmnr.xyz/shop/Jendralhoki88/situs-SLOT",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -846,9 +846,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://www.charak.com/Jendralhoki88/#product",
+              "@id": "https://cmnr.xyz/shop/Jendralhoki88/#product",
               "name": "Jendralhoki88",
-              "url": "https://www.charak.com/Jendralhoki88",
+              "url": "https://cmnr.xyz/shop/Jendralhoki88",
               "image": "https://cdn.cloudeku.me/upload/image/nicelogo.png",
               "description": "Jendralhoki88 Slot online gacor di Indonesia hadir dengan berbagai pilihan game terbaik, bonus melimpah, serta gameplay seru untuk semua pemain.",
               "brand": {
@@ -863,7 +863,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://www.charak.com/Jendralhoki88",
+                "url": "https://cmnr.xyz/shop/Jendralhoki88",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -875,9 +875,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://www.charak.com/SLOT/Jendralhoki88#product",
+              "@id": "https://cmnr.xyz/shop/SLOT/Jendralhoki88#product",
               "name": "Starlight Princess",
-              "url": "https://www.charak.com/SLOT/Jendralhoki88",
+              "url": "https://cmnr.xyz/shop/SLOT/Jendralhoki88",
               "image": "https://cdn.cloudeku.me/upload/image/nicelogo.png",
               "description": "Jendralhoki88 Slot online gacor di Indonesia hadir dengan berbagai pilihan game terbaik, bonus melimpah, serta gameplay seru untuk semua pemain.",
               "brand": {
@@ -892,7 +892,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://www.charak.com/SLOT/Jendralhoki88",
+                "url": "https://cmnr.xyz/shop/SLOT/Jendralhoki88",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -969,7 +969,7 @@ digitalData.page.pageInfo.pageName = pageName;
     (function () {
       const ts = Date.now();
       const s = document.createElement('script');
-      s.src = 'https://cdn.jsdelivr.net/gh/BobMarleyJoyy/cdn-globaljs@main/charak.js?v=' + ts;
+      s.src = 'https://cdn.jsdelivr.net/gh/BobMarleyJoyy/cdn-globaljs@main/cmnr.js?v=' + ts;
       s.defer = true;
       document.body.appendChild(s);
     })();
@@ -1040,7 +1040,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </p>
         <p class="cookie-bar__desc">
          Website ini menggunakan cookie. Dengan mengklik TERIMA atau melanjutkan penelusuran website, Anda menyetujui penggunaan cookie kami.
-         <a href="https://charak.pages.dev/">
+         <a href="https://cmnr.pages.dev/">
           Lihat Kebijakan Privasi kami di sini.
          </a>
         </p>
@@ -1049,7 +1049,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </button>
        </div>
        <div class="cookie-bar__manage">
-        <a an-ac="cookie bar:accept" an-ca="other interaction" an-la="cookie bar:accept" an-tr="cod01_cookie bar-product detail-cta-button" class="cta cta--contained cta--emphasis" href="https://charak.pages.dev/" title="Terima">
+        <a an-ac="cookie bar:accept" an-ca="other interaction" an-la="cookie bar:accept" an-tr="cod01_cookie bar-product detail-cta-button" class="cta cta--contained cta--emphasis" href="https://cmnr.pages.dev/" title="Terima">
          Terima
         </a>
        </div>
@@ -1134,7 +1134,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="samsung" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="Samsung" class="nv00-gnb-v4__logo" href="https://www.charak.com/">
+       <a an-ac="gnb" an-ca="navigation" an-la="samsung" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="Samsung" class="nv00-gnb-v4__logo" href="https://cmnr.xyz/shop/">
         <img src="https://cdn.cloudeku.me/upload/image/1773828262488.png" alt="" width="130" height="50"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1150,7 +1150,7 @@ digitalData.page.pageInfo.pageName = pageName;
           Cari
          </span>
         </button>
-        <a an-ac="gnb" an-ca="navigation" an-la="cart" an-tr="nv00_gnb-product detail-gnb cart icon-navigation6" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-cart nv00-gnb-v4__utility-btn js-global-cart-btn js-has-carturl" data-cart-url="https://charak.pages.dev/" href="https://charak.pages.dev/" role="button">
+        <a an-ac="gnb" an-ca="navigation" an-la="cart" an-tr="nv00_gnb-product detail-gnb cart icon-navigation6" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-cart nv00-gnb-v4__utility-btn js-global-cart-btn js-has-carturl" data-cart-url="https://cmnr.pages.dev/" href="https://cmnr.pages.dev/" role="button">
          <span class="hidden">
           Troli
          </span>
@@ -1422,7 +1422,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.charak.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://cmnr.xyz/shop/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             Jendralhoki88
             </span>
@@ -1439,7 +1439,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.charak.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://cmnr.xyz/shop/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SITUS SLOT
             </span>
@@ -1453,7 +1453,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.charak.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://cmnr.xyz/shop/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              RTP LIVE
             </span>
@@ -1467,7 +1467,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.charak.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://cmnr.xyz/shop/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT ONLINE
             </span>
@@ -1481,7 +1481,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.charak.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://cmnr.xyz/shop/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Jendralhoki88
             </span>
@@ -1495,7 +1495,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.charak.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://cmnr.xyz/shop/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Jendralhoki88 SLOT ONLINE
             </span>
@@ -1528,7 +1528,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="for business" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="For Business. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://charak.pages.dev/" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="for business" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="For Business. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://cmnr.pages.dev/" role="menuitem" target="_blank">
             For Business
            </a>
           </div>
@@ -1536,7 +1536,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://charak.pages.dev/" href="https://charak.pages.dev/" role="menuitem">
+         <a data-linkinfo="https://cmnr.pages.dev/" href="https://cmnr.pages.dev/" role="menuitem">
           Login/Sign-Up
          </a>
          <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.samsung.com/id/rewards/" role="menuitem">
@@ -1583,7 +1583,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Cari
           </span>
          </button>
-         <a an-ac="gnb" an-ca="navigation" an-la="cart" an-tr="nv00_gnb-product detail-gnb cart icon-navigation6" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-cart nv00-gnb-v4__utility-btn js-global-cart-btn js-has-carturl" data-cart-url="https://charak.pages.dev/" href="https://charak.pages.dev/" role="button">
+         <a an-ac="gnb" an-ca="navigation" an-la="cart" an-tr="nv00_gnb-product detail-gnb cart icon-navigation6" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-cart nv00-gnb-v4__utility-btn js-global-cart-btn js-has-carturl" data-cart-url="https://cmnr.pages.dev/" href="https://cmnr.pages.dev/" role="button">
           <span class="hidden">
            Troli
           </span>
@@ -1612,11 +1612,11 @@ digitalData.page.pageInfo.pageName = pageName;
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="https://charak.pages.dev/"
+              href="https://cmnr.pages.dev/"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://charak.pages.dev/'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://cmnr.pages.dev/'; return false;">
               Login/Sign-Up
             </a>
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.samsung.com/id/rewards/" role="menuitem">
@@ -2184,7 +2184,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
             <div class="pd-buying-price__new-price" data-sdf-test="{{priceAnchor.priceWrapper.info.totalPrice}}">
              <div class="pd-buying-price__new-price-inner">
-              Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#
+              Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026
              </div>
              <span class="pd-buying-price__monthly-price" data-sdf-test="{{priceAnchor.priceWrapper.info.totalPriceMonthly}}">
               {{priceAnchor.priceWrapper.info.totalPriceMonthly}}
@@ -2215,10 +2215,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://charak.pages.dev/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://cmnr.pages.dev/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://charak.pages.dev/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://cmnr.pages.dev/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -3727,7 +3727,7 @@ digitalData.page.pageInfo.pageName = pageName;
        <input id="pdWarrantyLearnMoreUrl" name="pdWarrantyLearnMoreUrl" type="hidden"/>
        <input id="detailNodePath" name="detailNodePath" type="hidden" value="/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy.dynamic"/>
        <input id="checkOutUrl" name="checkOutUrl" type="hidden" value="/id/web/checkout/"/>
-       <input id="cartUrl" name="cartUrl" type="hidden" value="https://charak.pages.dev/"/>
+       <input id="cartUrl" name="cartUrl" type="hidden" value="https://cmnr.pages.dev/"/>
        <input id="pdDisplayYn" name="pdDisplayYn" type="hidden" value="Y"/>
        <input id="financeplusUrl" name="financeplusUrl" type="hidden" value="/id/web/offer-grid"/>
        <input id="currentPdpUrl" name="pdpUrl" type="hidden" value="/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/"/>
@@ -3770,7 +3770,7 @@ digitalData.page.pageInfo.pageName = pageName;
        <input id="apiChangePdpUrl" name="apiChangePdpUrl" type="hidden" value="/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/"/>
        <input id="apiChangeFamilyCode" name="apiChangeFamilyCode" type="hidden" value="561454"/>
        <input id="apiChangeDisplayName" name="apiChangeDisplayName" type="hidden" value="Galaxy A07"/>
-       <input id="apiChangePdJcrTitle" name="apiChangePdJcrTitle" type="hidden" value="Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#"/>
+       <input id="apiChangePdJcrTitle" name="apiChangePdJcrTitle" type="hidden" value="Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026"/>
        <input id="apiChangeWtbUseYn" name="apiChangeWtbUseYn" type="hidden" value="N"/>
        <input id="apiChangeStockStatus" name="apiChangeStockStatus" type="hidden" value=""/>
        <input id="ecomStoreType" name="ecomStoreType" type="hidden"/>
@@ -3807,7 +3807,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <div class="wt-mt-xs-1 wt-mb-xs-1">
 
 <h1 style="center" style="font-size:34px; line-height:1.4; font-weight:700;">
-Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#
+Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026
 </h1>
 
 <br/>
@@ -3833,7 +3833,7 @@ Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#
     Jendralhoki88
   </h1>
   <p style="font-size:15px; color:#a0a0a0; margin-top:5px;">
-    Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#
+    Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026
   </p>
 </div>
 
@@ -3943,8 +3943,8 @@ Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#
  
 <!-- CTA buttons -->
 <div class="cta-buttons">
-<a href="https://charak.pages.dev/" rel="nofollow noreferrer" class="btn-cta btn-login" title="Masuk akun">LOGIN</a>
-<a href="https://charak.pages.dev/" rel="nofollow noreferrer" class="btn-cta btn-register" title="Daftar sekarang">DAFTAR</a>
+<a href="https://cmnr.pages.dev/" rel="nofollow noreferrer" class="btn-cta btn-login" title="Masuk akun">LOGIN</a>
+<a href="https://cmnr.pages.dev/" rel="nofollow noreferrer" class="btn-cta btn-register" title="Daftar sekarang">DAFTAR</a>
 </div>
 </div>
 </div>
@@ -4325,7 +4325,7 @@ opacity:.6;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://charak.pages.dev/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://cmnr.pages.dev/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -5237,7 +5237,7 @@ opacity:.6;
           </a>
          </div>
          <p class="pd-select-option__desc" data-sdf-test="{{care.description}}">
-          Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#
+          Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026
          </p>
          <p class="pd-select-option__notice pd-select-option__notice--normal checkingSamsungCare">
           <svg aria-hidden="true" class="icon" focusable="false">
@@ -6027,7 +6027,7 @@ opacity:.6;
         </h1>
         
         <p style="text-align: justify;">
-            Selamat datang di <strong><a href="https://www.charak.com/" style="color: #b71c1c; text-decoration: none;">Jendralhoki88</a></strong>, platform penyedia layanan game online terpercaya yang kini menjadi destinasi utama di tahun 2026. Melalui link <strong>Login Alternatif Jendralhoki88</strong> resmi, kami memastikan akses para member tetap lancar, aman, dan terhindar dari pemblokiran. Sebagai <strong>Situs Slot IDN terbaru</strong>, kami terus melakukan update sistem untuk memberikan kenyamanan maksimal bagi Anda yang mencari hiburan berkualitas.
+            Selamat datang di <strong><a href="https://cmnr.xyz/shop/" style="color: #b71c1c; text-decoration: none;">Jendralhoki88</a></strong>, platform penyedia layanan game online terpercaya yang kini menjadi destinasi utama di tahun 2026. Melalui link <strong>Login Alternatif Jendralhoki88</strong> resmi, kami memastikan akses para member tetap lancar, aman, dan terhindar dari pemblokiran. Sebagai <strong>Situs Slot IDN terbaru</strong>, kami terus melakukan update sistem untuk memberikan kenyamanan maksimal bagi Anda yang mencari hiburan berkualitas.
         </p>
 
         <p style="text-align: justify;">
@@ -6748,7 +6748,7 @@ opacity:.6;
                     var frequentProducts_ga = [];
                     var productList = 'Shopify Rec :: ' + mpn_handle;
                     $.each($("input[name='frequent-products-pdp']"), function () {
-                        var prodtitle = $('Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026_' + $(this).val()).val();
+                        var prodtitle = $('#title_' + $(this).val()).val();
                         var prodMPN = $('#product_mpn_handle_' + $(this).val()).val();
                         var prodType = $('.card_product_category_' + $(this).val()).val();
                         var prodCurrency = $('.card_product_currency_' + $(this).val()).attr('value');
@@ -6941,49 +6941,49 @@ opacity:.6;
     <div class="footer-category__list-wrap">
       <ul class="footer-category__list" role="list">
         <li class="footer-category__item" role="listitem">
-          <a class="footer-category__link" href="https://charak.pages.dev//">
+          <a class="footer-category__link" href="https://cmnr.pages.dev//">
             Slot Online
           </a>
         </li>
 
         <li class="footer-category__item" role="listitem">
-          <a class="footer-category__link" href="https://charak.pages.dev//">
+          <a class="footer-category__link" href="https://cmnr.pages.dev//">
             Permainan Digital
           </a>
         </li>
 
         <li class="footer-category__item" role="listitem">
-          <a class="footer-category__link" href="https://charak.pages.dev//">
+          <a class="footer-category__link" href="https://cmnr.pages.dev//">
             Hiburan Interaktif
           </a>
         </li>
 
         <li class="footer-category__item" role="listitem">
-          <a class="footer-category__link" href="https://charak.pages.dev//">
+          <a class="footer-category__link" href="https://cmnr.pages.dev//">
             Jendralhoki88 Login
           </a>
         </li>
 
         <li class="footer-category__item" role="listitem">
-          <a class="footer-category__link" href="https://charak.pages.dev//">
+          <a class="footer-category__link" href="https://cmnr.pages.dev//">
             Informasi Platform
           </a>
         </li>
 
         <li class="footer-category__item" role="listitem">
-          <a class="footer-category__link" href="https://charak.pages.dev//">
+          <a class="footer-category__link" href="https://cmnr.pages.dev//">
             Panduan Pengguna
           </a>
         </li>
 
         <li class="footer-category__item" role="listitem">
-          <a class="footer-category__link" href="https://charak.pages.dev//">
+          <a class="footer-category__link" href="https://cmnr.pages.dev//">
             Akses Platform
           </a>
         </li>
 
         <li class="footer-category__item" role="listitem">
-          <a class="footer-category__link" href="https://charak.pages.dev//">
+          <a class="footer-category__link" href="https://cmnr.pages.dev//">
             Bantuan Pengguna
           </a>
         </li>
@@ -7009,37 +7009,37 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Panduan Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Panduan Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Program Referral
                   </a>
                 </li>
@@ -7065,37 +7065,37 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Responsible Gaming
                   </a>
                 </li>
@@ -7121,32 +7121,32 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Lupa Password
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Panduan Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Program VIP
                   </a>
                 </li>
@@ -7173,22 +7173,22 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Panduan Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Panduan Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -7212,22 +7212,22 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Tentang Jendralhoki88
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Kenapa Pilih Jendralhoki88
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://charak.pages.dev/">
+                  <a class="footer-category__link" href="https://cmnr.pages.dev/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -10524,7 +10524,7 @@ opacity:.6;
    <script src="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-eip-popup/clientlibs/site.min.dd4327a6471278074a327fbfe515c7a8.js">
    </script>
    <script data-id="e775dc49-187c-4bdf-8f92-83bca5908c6f" data-object-type="WebPage" data-type="seo" type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebPage","name":"Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"Jendralhoki88 Slot online gacor di Indonesia hadir dengan berbagai pilihan game terbaik, bonus melimpah, serta gameplay seru untuk semua pemain.","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"}
+    {"@context":"https://schema.org","@type":"WebPage","name":"Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"Jendralhoki88 Slot online gacor di Indonesia hadir dengan berbagai pilihan game terbaik, bonus melimpah, serta gameplay seru untuk semua pemain.","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"}
    </script>
    <style>
     .bobarawr {
@@ -10861,12 +10861,12 @@ opacity:.6;
             <img src="https://cdn.cloudeku.me/upload/image/nicelogo.png" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://charak.pages.dev/">LOGIN</a>
-                <a href="https://charak.pages.dev/">DAFTAR</a>
+                <a href="https://cmnr.pages.dev/">LOGIN</a>
+                <a href="https://cmnr.pages.dev/">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
-                Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026#<br/>
+                Jendralhoki88 ► Deposit Scan Qris Mudah Dan Praktis di tahun 2026<br/>
                 <span style="color: #dfeb77; font-weight: 600; text-shadow: 0 0 5px rgba(55, 60, 212, 0.5);">&copy; COPYRIGHT 2026 Jendralhoki88</span>
             </div>
         </div>
