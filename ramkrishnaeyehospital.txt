@@ -10,7 +10,7 @@
 <title>JendralHoki88 Website slot gacor terbaik untuk bermain kejar jacpot maxwin 2026</title>
 <meta name="title" content="JendralHoki88 Website slot gacor terbaik untuk bermain kejar jacpot maxwin 2026">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://ramkrishnaeyehospital.in/glaucoma/">
+<link rel="canonical" href="https://ramkrishnaeyehospital.in/contact-us/">
 <link rel="amphtml" href="https://ramkrishnaeyehospital.pages.dev/">
 <meta name="publisher" content="Jendralhoki88">
 <meta name="description" content="Jendralhoki88 merupakan situs online kekinian yang menghadirkan pengalaman bermain lebih praktis, cepat, dan nyaman. Dengan desain modern serta sistem optimal, pengguna dapat menikmati hiburan digital kapan saja dengan performa stabil dan layanan yang selalu diperbarui.">
@@ -19,12 +19,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="JendralHoki88 Website slot gacor terbaik untuk bermain kejar jacpot maxwin 2026">
 <meta name="twitter:description" content="Jendralhoki88 merupakan situs online kekinian yang menghadirkan pengalaman bermain lebih praktis, cepat, dan nyaman. Dengan desain modern serta sistem optimal, pengguna dapat menikmati hiburan digital kapan saja dengan performa stabil dan layanan yang selalu diperbarui.">
-<meta name="twitter:url" content="https://ramkrishnaeyehospital.in/glaucoma/">
+<meta name="twitter:url" content="https://ramkrishnaeyehospital.in/contact-us/">
 <meta name="twitter:image" content="https://cdn.cloudeku.me/upload/image/1773828262488.png">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Jendralhoki88">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://ramkrishnaeyehospital.in/glaucoma/">
+<meta property="og:url" content="https://ramkrishnaeyehospital.in/contact-us/">
 <meta property="og:title" content="JendralHoki88 Website slot gacor terbaik untuk bermain kejar jacpot maxwin 2026">
 <meta property="og:description" content="Jendralhoki88 merupakan situs online kekinian yang menghadirkan pengalaman bermain lebih praktis, cepat, dan nyaman. Dengan desain modern serta sistem optimal, pengguna dapat menikmati hiburan digital kapan saja dengan performa stabil dan layanan yang selalu diperbarui.">
 <meta property="og:image" content="https://cdn.cloudeku.me/upload/image/Jrenngggg.png">
@@ -691,9 +691,9 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://ramkrishnaeyehospital.in/glaucoma/#organization",
+        "@id": "https://ramkrishnaeyehospital.in/contact-us/#organization",
         "name": "Jendralhoki88",
-        "url": "https://ramkrishnaeyehospital.in/glaucoma/",
+        "url": "https://ramkrishnaeyehospital.in/contact-us/",
         "logo": "https://cdn.cloudeku.me/upload/image/1773828262488.png",
         "sameAs": [
           "https://facebook.com/Jendralhoki88",
@@ -719,32 +719,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://ramkrishnaeyehospital.in/glaucoma/#breadcrumb",
+        "@id": "https://ramkrishnaeyehospital.in/contact-us/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Beranda",
-            "item": "https://ramkrishnaeyehospital.in/glaucoma/"
+            "item": "https://ramkrishnaeyehospital.in/contact-us/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Jendralhoki88",
-            "item": "https://ramkrishnaeyehospital.in/glaucoma/"
+            "item": "https://ramkrishnaeyehospital.in/contact-us/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "SITUS SLOT",
-            "item": "https://ramkrishnaeyehospital.in/glaucoma/"
+            "item": "https://ramkrishnaeyehospital.in/contact-us/"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://ramkrishnaeyehospital.in/glaucoma/Jendralhoki88#product",
+        "@id": "https://ramkrishnaeyehospital.in/contact-us/Jendralhoki88#product",
         "name": "Jendralhoki88",
         "image": [
           "https://cdn.cloudeku.me/upload/image/Jrenngggg.png"
@@ -756,7 +756,7 @@ digitalData.page.pageInfo.pageName = pageName;
         },
         "sku": "Jendralhoki88-SLOT-ONLINE",
         "category": "Jendralhoki88 SLOT ONLINE",
-        "url": "https://ramkrishnaeyehospital.in/glaucoma/",
+        "url": "https://ramkrishnaeyehospital.in/contact-us/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.7",
@@ -799,7 +799,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://ramkrishnaeyehospital.in/glaucoma/",
+          "url": "https://ramkrishnaeyehospital.in/contact-us/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -808,7 +808,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "https://ramkrishnaeyehospital.in/glaucoma/SLOT#merchant-listing",
+        "@id": "https://ramkrishnaeyehospital.in/contact-us/SLOT#merchant-listing",
         "name": "Daftar Situs Jendralhoki88 SLOT ONLINE",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -817,9 +817,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://ramkrishnaeyehospital.in/glaucoma/Jendralhoki88/situs-SLOT#product",
+              "@id": "https://ramkrishnaeyehospital.in/contact-us/Jendralhoki88/situs-SLOT#product",
               "name": "Jendralhoki88",
-              "url": "https://ramkrishnaeyehospital.in/glaucoma/Jendralhoki88/situs-SLOT",
+              "url": "https://ramkrishnaeyehospital.in/contact-us/Jendralhoki88/situs-SLOT",
               "image": "https://cdn.cloudeku.me/upload/image/Jrenngggg.png",
               "description": "Jendralhoki88 merupakan situs online kekinian yang menghadirkan pengalaman bermain lebih praktis, cepat, dan nyaman. Dengan desain modern serta sistem optimal, pengguna dapat menikmati hiburan digital kapan saja dengan performa stabil dan layanan yang selalu diperbarui.",
               "brand": {
@@ -834,7 +834,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://ramkrishnaeyehospital.in/glaucoma/Jendralhoki88/situs-SLOT",
+                "url": "https://ramkrishnaeyehospital.in/contact-us/Jendralhoki88/situs-SLOT",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -846,9 +846,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://ramkrishnaeyehospital.in/glaucoma/Jendralhoki88/#product",
+              "@id": "https://ramkrishnaeyehospital.in/contact-us/Jendralhoki88/#product",
               "name": "Jendralhoki88",
-              "url": "https://ramkrishnaeyehospital.in/glaucoma/Jendralhoki88",
+              "url": "https://ramkrishnaeyehospital.in/contact-us/Jendralhoki88",
               "image": "https://cdn.cloudeku.me/upload/image/Jrenngggg.png",
               "description": "Jendralhoki88 merupakan situs online kekinian yang menghadirkan pengalaman bermain lebih praktis, cepat, dan nyaman. Dengan desain modern serta sistem optimal, pengguna dapat menikmati hiburan digital kapan saja dengan performa stabil dan layanan yang selalu diperbarui.",
               "brand": {
@@ -863,7 +863,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://ramkrishnaeyehospital.in/glaucoma/Jendralhoki88",
+                "url": "https://ramkrishnaeyehospital.in/contact-us/Jendralhoki88",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -875,9 +875,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://ramkrishnaeyehospital.in/glaucoma/SLOT/Jendralhoki88#product",
+              "@id": "https://ramkrishnaeyehospital.in/contact-us/SLOT/Jendralhoki88#product",
               "name": "Starlight Princess",
-              "url": "https://ramkrishnaeyehospital.in/glaucoma/SLOT/Jendralhoki88",
+              "url": "https://ramkrishnaeyehospital.in/contact-us/SLOT/Jendralhoki88",
               "image": "https://cdn.cloudeku.me/upload/image/Jrenngggg.png",
               "description": "Jendralhoki88 merupakan situs online kekinian yang menghadirkan pengalaman bermain lebih praktis, cepat, dan nyaman. Dengan desain modern serta sistem optimal, pengguna dapat menikmati hiburan digital kapan saja dengan performa stabil dan layanan yang selalu diperbarui.",
               "brand": {
@@ -892,7 +892,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://ramkrishnaeyehospital.in/glaucoma/SLOT/Jendralhoki88",
+                "url": "https://ramkrishnaeyehospital.in/contact-us/SLOT/Jendralhoki88",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -1134,7 +1134,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="samsung" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="Samsung" class="nv00-gnb-v4__logo" href="https://ramkrishnaeyehospital.in/glaucoma/">
+       <a an-ac="gnb" an-ca="navigation" an-la="samsung" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="Samsung" class="nv00-gnb-v4__logo" href="https://ramkrishnaeyehospital.in/contact-us/">
         <img src="https://cdn.cloudeku.me/upload/image/1773828262488.png" alt="" width="130" height="50"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1422,7 +1422,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramkrishnaeyehospital.in/glaucoma/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramkrishnaeyehospital.in/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             Jendralhoki88
             </span>
@@ -1439,7 +1439,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramkrishnaeyehospital.in/glaucoma/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramkrishnaeyehospital.in/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SITUS SLOT
             </span>
@@ -1453,7 +1453,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramkrishnaeyehospital.in/glaucoma/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramkrishnaeyehospital.in/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              RTP LIVE
             </span>
@@ -1467,7 +1467,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramkrishnaeyehospital.in/glaucoma/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramkrishnaeyehospital.in/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT ONLINE
             </span>
@@ -1481,7 +1481,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramkrishnaeyehospital.in/glaucoma/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramkrishnaeyehospital.in/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Jendralhoki88
             </span>
@@ -1495,7 +1495,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramkrishnaeyehospital.in/glaucoma/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramkrishnaeyehospital.in/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Jendralhoki88 SLOT ONLINE
             </span>
@@ -6027,7 +6027,7 @@ opacity:.6;
         </h1>
         
         <p style="text-align: justify;">
-            Selamat datang di <strong><a href="https://ramkrishnaeyehospital.in/glaucoma/" style="color: #b71c1c; text-decoration: none;">Jendralhoki88</a></strong>, platform penyedia layanan game online terpercaya yang kini menjadi destinasi utama di tahun 2026. Melalui link <strong>Login Alternatif Jendralhoki88</strong> resmi, kami memastikan akses para member tetap lancar, aman, dan terhindar dari pemblokiran. Sebagai <strong>Situs Slot IDN terbaru</strong>, kami terus melakukan update sistem untuk memberikan kenyamanan maksimal bagi Anda yang mencari hiburan berkualitas.
+            Selamat datang di <strong><a href="https://ramkrishnaeyehospital.in/contact-us/" style="color: #b71c1c; text-decoration: none;">Jendralhoki88</a></strong>, platform penyedia layanan game online terpercaya yang kini menjadi destinasi utama di tahun 2026. Melalui link <strong>Login Alternatif Jendralhoki88</strong> resmi, kami memastikan akses para member tetap lancar, aman, dan terhindar dari pemblokiran. Sebagai <strong>Situs Slot IDN terbaru</strong>, kami terus melakukan update sistem untuk memberikan kenyamanan maksimal bagi Anda yang mencari hiburan berkualitas.
         </p>
 
         <p style="text-align: justify;">
