@@ -4,45 +4,42 @@
 <html lang="id-ID">
 <head>
       <meta charset="utf-8">
-     <title>JendralHoki88 Official Slot Site 🎰 Game Lengkap dengan Bonus Tanpa Batas</title>
+     <title>#title#</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-        <link rel="amphtml" href="https://enterprise-ap6.pages.dev/">
-        <link rel="canonical" href="https://arham-enterprise.com/equipment/">
+        <link rel="amphtml" href="#linkamp#">
+        <link rel="canonical" href="#namadomain#">
         <meta data-n-head="ssr" data-hid="mobile-web-app-capable" name="mobile-web-app-capable" content="yes">
         <meta data-n-head="ssr" data-hid="apple-mobile-web-app-capable" name="apple-mobile-web-app-capable" content="yes">
         <meta data-n-head="ssr" data-hid="apple-mobile-web-app-status-bar-style" name="apple-mobile-web-app-status-bar-style" content="default">
         <meta data-n-head="ssr" data-hid="theme-color" name="theme-color" content="var(--theme-color)">
         <meta data-n-head="ssr" data-hid="og:type" name="og:type" property="og:type" content="website">
-        <meta data-n-head="ssr" data-hid="og:image" name="og:image" property="og:image" content="https://cdn.cloudeku.me/upload/image/logoaceee.jpg">
+        <meta data-n-head="ssr" data-hid="og:image" name="og:image" property="og:image" content="#icon#">
         <meta data-n-head="ssr" data-hid="og:image:width" name="og:image:width" property="og:image:width" content="512">
         <meta data-n-head="ssr" data-hid="og:image:height" name="og:image:height" property="og:image:height" content="512">
-        <meta data-n-head="ssr" data-hid="og:image:type" name="og:image:type" property="og:image:type" content="https://cdn.cloudeku.me/upload/image/zooorooone.png">
+        <meta data-n-head="ssr" data-hid="og:image:type" name="og:image:type" property="og:image:type" content="#gambarbesar#">
         <meta data-n-head="ssr" data-hid="i18n-og" property="og:locale" content="id_ID">f
         <meta data-n-head="ssr" data-hid="i18n-og-alt-en-GB" property="og:locale:alternate" content="en_GB">
-        <meta data-n-head="ssr" data-hid="description" name="description" content="JendralHoki88 menyediakan pengalaman slot online modern dengan permainan favorit pemain, peluang menang optimal, serta bonus eksklusif setiap hari. Akses mudah, gameplay stabil, dan sistem keamanan terbaik.">
-        <meta data-n-head="ssr" data-hid="keywords" name="keywords" content="Jendralhoki88 situs togel online terpercaya, togel resmi 4d 3d 2d, bandar togel pasaran lengkap, togel online deposit rendah, togel hadiah terbesar, togel terpercaya hari ini,
-situs slot online gacor, slot pragmatic play, slot rtp tinggi, slot jackpot terbesar, slot online deposit murah, slot gacor hari ini,
-casino online terpercaya, live casino indonesia, baccarat roulette blackjack online, casino live dealer resmi,
-situs poker online terpercaya, poker uang asli indonesia, poker online server idn, poker terbaik 24 jam">
-        <link data-n-head="ssr" rel="icon" type="image/x-icon" href="https://cdn.cloudeku.me/upload/image/logoaceee.jpg">
-        <link data-n-head="ssr" data-hid="shortcut-icon" rel="shortcut icon" href="https://cdn.cloudeku.me/upload/image/logoaceee.jpg">
-        <link data-n-head="ssr" data-hid="apple-touch-icon" rel="apple-touch-icon" href="https://cdn.cloudeku.me/upload/image/logoaceee.jpg" sizes="512x512">
-        <link data-n-head="ssr" href="https://cdn.cloudeku.me/upload/image/logoaceee.jpg" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-iphonese">
-        <link data-n-head="ssr" href="https://cdn.cloudeku.me/upload/image/logoaceee.jpg" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-iphone6">
-        <link data-n-head="ssr" href="https://cdn.cloudeku.me/upload/image/logoaceee.jpg" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-iphoneplus">
-        <link data-n-head="ssr" href="https://cdn.cloudeku.me/upload/image/logoaceee.jpg" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-iphonex">
-        <link data-n-head="ssr" href="https://cdn.cloudeku.me/upload/image/logoaceee.jpg" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-iphonexr">
-        <link data-n-head="ssr" href="https://cdn.cloudeku.me/upload/image/logoaceee.jpg" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-iphonexsmax">
-        <link data-n-head="ssr" href="https://cdn.cloudeku.me/upload/image/logoaceee.jpg" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-ipad">
+        <meta data-n-head="ssr" data-hid="description" name="description" content="#description#">
+        <meta data-n-head="ssr" data-hid="keywords" name="keywords" content="#keywords#">
+        <link data-n-head="ssr" rel="icon" type="image/x-icon" href="#icon#">
+        <link data-n-head="ssr" data-hid="shortcut-icon" rel="shortcut icon" href="#icon#">
+        <link data-n-head="ssr" data-hid="apple-touch-icon" rel="apple-touch-icon" href="#icon#" sizes="512x512">
+        <link data-n-head="ssr" href="#icon#" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-iphonese">
+        <link data-n-head="ssr" href="#icon#" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-iphone6">
+        <link data-n-head="ssr" href="#icon#" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-iphoneplus">
+        <link data-n-head="ssr" href="#icon#" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-iphonex">
+        <link data-n-head="ssr" href="#icon#" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-iphonexr">
+        <link data-n-head="ssr" href="#icon#" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-iphonexsmax">
+        <link data-n-head="ssr" href="#icon#" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-ipad">
         <link data-n-head="ssr" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-ipadpro1">
         <link data-n-head="ssr" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-ipadpro2">
         <link data-n-head="ssr" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" data-hid="apple-touch-startup-image-ipadpro3">
         <link data-n-head="ssr" rel="manifest" href="https://cdn-proxy.globalcontentcloud.com/58/dist/manifest.ccbfabc6.json" data-hid="manifest">
-        <link data-n-head="ssr" data-hid="i18n-alt-id" rel="alternate" href="https://arham-enterprise.com/equipment/" hreflang="id">
-        <link data-n-head="ssr" data-hid="i18n-alt-id-ID" rel="alternate" href="https://arham-enterprise.com/equipment/" hreflang="id-ID">
-        <link data-n-head="ssr" data-hid="i18n-alt-en" rel="alternate" href="https://arham-enterprise.com/equipment/en" hreflang="en">
-        <link data-n-head="ssr" data-hid="i18n-alt-en-GB" rel="alternate" href="https://arham-enterprise.com/equipment/en" hreflang="en-GB">
-        <link data-n-head="ssr" data-hid="i18n-xd" rel="alternate" href="https://arham-enterprise.com/equipment/" hreflang="x-default">
+        <link data-n-head="ssr" data-hid="i18n-alt-id" rel="alternate" href="#namadomain#" hreflang="id">
+        <link data-n-head="ssr" data-hid="i18n-alt-id-ID" rel="alternate" href="#namadomain#" hreflang="id-ID">
+        <link data-n-head="ssr" data-hid="i18n-alt-en" rel="alternate" href="#namadomain#en" hreflang="en">
+        <link data-n-head="ssr" data-hid="i18n-alt-en-GB" rel="alternate" href="#namadomain#en" hreflang="en-GB">
+        <link data-n-head="ssr" data-hid="i18n-xd" rel="alternate" href="#namadomain#" hreflang="x-default">
         <style data-vue-ssr-id="5f8fffe6:0 5f8fffe6:1 5564551a:0 5c346d62:0 737e6e7e:0 abacbb72:0 3d6af804:0 b07c7b88:0 0f34a119:0 516a95ee:0 2065e928:0 48d2e31c:0 1e6962f8:0 6328fecd:0 01423e96:0 d44b6368:0 45950b50:0 0f1b1166:0 7f8ce74e:0 3527a6c8:0 63e9c044:0 1bd34be1:0 2f97eff2:0 0d5f88d1:0 5ec9e21a:0 507314ec:0 6a594412:0 047c1842:0 87f150ba:0">
             @import url(https://cdn-proxy.globalcontentcloud.com/common/font/v1/icons.css); @font-face {
                 font-family: Avenir;
@@ -3784,13 +3781,13 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                         <div class="container--fluid" data-v-ced53b20="">
                             <div class="app-header__main" data-v-ced53b20="">
                                 <div class="app-brand" data-v-ced53b20="">
-                                    <a href="https://arham-enterprise.com/equipment/" aria-current="page" class="app-link--exact-active app-link--active">
-                                        <img src="https://cdn.cloudeku.me/upload/image/zooorooone.png" alt="Jendralhoki88" loading="lazy" class="app-logo">
+                                    <a href="#namadomain#" aria-current="page" class="app-link--exact-active app-link--active">
+                                        <img src="#gambarbesar#" alt="#namabrand#" loading="lazy" class="app-logo">
                                     </a>
                                 </div>
                                 <div class="app-header__widgets" data-v-ced53b20="">
                                     <div class="app-header__auth" data-v-ced53b20="">
-                                        <a href="https://enterprise-ap6.pages.dev/" class="btn btn--brand btn--flex">Daftar
+                                        <a href="#linkamp#" class="btn btn--brand btn--flex">Daftar
             </a>
                                         <button class="btn btn--accent" data-v-ced53b20="">Masuk</button>
                                     </div>
@@ -3802,40 +3799,40 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                 <ul>
                                     <li data-pos="start" class="nav-observer"></li>
                                     <li class="nav-item nav-item--home">
-                                        <a href="https://arham-enterprise.com/equipment/" aria-current="page" name="Beranda" class="app-link--exact-active app-link--active app-link--exact-active">Beranda
+                                        <a href="#namadomain#" aria-current="page" name="Beranda" class="app-link--exact-active app-link--active app-link--exact-active">Beranda
       </a>
                                     </li>
                                     <!---->
                                     <li class="nav-item">
-                                        <a href="https://arham-enterprise.com/equipment/" name="Sports+">Sports+
+                                        <a href="#namadomain#" name="Sports+">Sports+
         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="https://arham-enterprise.com/equipment/" name="Slots">Slots
+                                        <a href="#namadomain#" name="Slots">Slots
         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="https://arham-enterprise.com/equipment/" name="Casino">Casino
+                                        <a href="#namadomain#" name="Casino">Casino
         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="https://arham-enterprise.com/equipment/" name="Poker">Poker
+                                        <a href="#namadomain#" name="Poker">Poker
         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="https://arham-enterprise.com/equipment/" name="Lotto">Lotto
+                                        <a href="#namadomain#" name="Lotto">Lotto
         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="https://arham-enterprise.com/equipment/" name="Arcade">Arcade
+                                        <a href="#namadomain#" name="Arcade">Arcade
         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="https://arham-enterprise.com/equipment/" name="Fishing">Fishing
+                                        <a href="#namadomain#" name="Fishing">Fishing
         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="https://arham-enterprise.com/equipment/" name="Promosi">Promosi
+                                        <a href="#namadomain#" name="Promosi">Promosi
         </a>
                                     </li>
                                     <li data-pos="end" class="nav-observer"></li>
@@ -3871,8 +3868,8 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                 <div tabindex="-1" data-index="-1" aria-hidden="true" class="slick-slide slick-cloned" style="width:3.225806451612903%;" data-v-e4caeaf8=""></div>
                                                 <div tabindex="-1" data-index="0" aria-hidden="false" class="slick-slide slick-active slick-current" style="outline:none;width:3.225806451612903%;" data-v-e4caeaf8="">
                                                     <div data-v-e4caeaf8="">
-                                                        <a href="https://arham-enterprise.com/equipment/" target="_blank" tabindex="-1" style="width:100%;display:inline-block;" data-v-e4caeaf8="">
-                                                            <img src="https://cdn.cloudeku.me/upload/image/zooorooone.png" loading="lazy" class="slide" data-v-e4caeaf8="">
+                                                        <a href="#namadomain#" target="_blank" tabindex="-1" style="width:100%;display:inline-block;" data-v-e4caeaf8="">
+                                                            <img src="#gambarbesar#" loading="lazy" class="slide" data-v-e4caeaf8="">
                                                         </a>
                                                     </div>
                                                 </div>
@@ -3892,8 +3889,8 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                 <div tabindex="-1" data-index="14" aria-hidden="true" class="slick-slide" style="outline:none;width:3.225806451612903%;" data-v-e4caeaf8=""></div>
                                                 <div tabindex="-1" data-index="15" aria-hidden="true" class="slick-slide slick-cloned" style="width:3.225806451612903%;" data-v-e4caeaf8="">
                                                     <div data-v-e4caeaf8="">
-                                                        <a href="https://arham-enterprise.com/equipment/" target="_blank" tabindex="-1" style="width:100%;display:inline-block;" data-v-e4caeaf8="">
-                                                            <img src="https://cdn.cloudeku.me/upload/image/zooorooone.png" loading="lazy" class="slide" data-v-e4caeaf8="">
+                                                        <a href="#namadomain#" target="_blank" tabindex="-1" style="width:100%;display:inline-block;" data-v-e4caeaf8="">
+                                                            <img src="#gambarbesar#" loading="lazy" class="slide" data-v-e4caeaf8="">
                                                         </a>
                                                     </div>
                                                 </div>
@@ -3964,12 +3961,12 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                 </div>
                                 <!---->
                                 <div class="home__teaser">
-                                    <a href="https://arham-enterprise.com/equipment/" class="btn btn--flex btn--accent-secondary" data-v-1272be00="">
+                                    <a href="#namadomain#" class="btn btn--flex btn--accent-secondary" data-v-1272be00="">
                                         <i class="icon-promo icon--lg" data-v-0e010622="" data-v-1272be00=""></i>
                                         Promosi
     
                                     </a>
-                                    <a href="https://arham-enterprise.com/equipment/" class="btn btn--flex btn--brand" data-v-1272be00="">
+                                    <a href="#namadomain#" class="btn btn--flex btn--brand" data-v-1272be00="">
                                         <i class="icon-register icon--lg" data-v-0e010622="" data-v-1272be00=""></i>
                                         Daftar
       
@@ -3985,56 +3982,56 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                 <!---->
                                 <div class="running-text running-text--primary">
                                     <i class="icon-volume icon--md" data-v-0e010622=""></i>
-                                    <marquee>JendralHoki88 menyediakan pengalaman slot online modern dengan permainan favorit pemain, peluang menang optimal, serta bonus eksklusif setiap hari. Akses mudah, gameplay stabil, dan sistem keamanan terbaik.
+                                    <marquee>#description#
   </marquee>
                                 </div>
                                 <nav class="app-menu" data-v-9cfb8622="">
                                     <ul data-v-9cfb8622="">
                                         <li data-pos="start" class="app-menu__observer" data-v-9cfb8622=""></li>
                                         <li class="app-menu__item" data-v-9cfb8622="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-9cfb8622="">
+                                            <a href="#namadomain#" data-v-9cfb8622="">
                                                 <img alt="Sports+" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/sports.125c2a3.svg" class="brand-icon brand-icon--active brand-icon--md" data-v-9cfb8622="">
                                                 <span data-v-9cfb8622="">Sports+</span>
                                                 <i class="app-menu--active icon-sort-up icon--lg" data-v-0e010622="" data-v-9cfb8622=""></i>
                                             </a>
                                         </li>
                                         <li class="app-menu__item" data-v-9cfb8622="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-9cfb8622="">
+                                            <a href="#namadomain#" data-v-9cfb8622="">
                                                 <img alt="Slots" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/slots.6fef30c.svg" class="brand-icon brand-icon--active brand-icon--md" data-v-9cfb8622="">
                                                 <span data-v-9cfb8622="">Slots</span>
                                                 <i class="app-menu--active icon-sort-up icon--lg" data-v-0e010622="" data-v-9cfb8622=""></i>
                                             </a>
                                         </li>
                                         <li class="app-menu__item" data-v-9cfb8622="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-9cfb8622="">
+                                            <a href="#namadomain#" data-v-9cfb8622="">
                                                 <img alt="Casino" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/casino.ebf86b5.svg" class="brand-icon brand-icon--active brand-icon--md" data-v-9cfb8622="">
                                                 <span data-v-9cfb8622="">Casino</span>
                                                 <i class="app-menu--active icon-sort-up icon--lg" data-v-0e010622="" data-v-9cfb8622=""></i>
                                             </a>
                                         </li>
                                         <li class="app-menu__item" data-v-9cfb8622="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-9cfb8622="">
+                                            <a href="#namadomain#" data-v-9cfb8622="">
                                                 <img alt="Poker" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/poker.21a6157.svg" class="brand-icon brand-icon--active brand-icon--md" data-v-9cfb8622="">
                                                 <span data-v-9cfb8622="">Poker</span>
                                                 <i class="app-menu--active icon-sort-up icon--lg" data-v-0e010622="" data-v-9cfb8622=""></i>
                                             </a>
                                         </li>
                                         <li class="app-menu__item" data-v-9cfb8622="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-9cfb8622="">
+                                            <a href="#namadomain#" data-v-9cfb8622="">
                                                 <img alt="Lotto" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/lotto.dcb74fd.svg" class="brand-icon brand-icon--active brand-icon--md" data-v-9cfb8622="">
                                                 <span data-v-9cfb8622="">Lotto</span>
                                                 <i class="app-menu--active icon-sort-up icon--lg" data-v-0e010622="" data-v-9cfb8622=""></i>
                                             </a>
                                         </li>
                                         <li class="app-menu__item" data-v-9cfb8622="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-9cfb8622="">
+                                            <a href="#namadomain#" data-v-9cfb8622="">
                                                 <img alt="Arcade" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/arcade.48fc4dd.svg" class="brand-icon brand-icon--active brand-icon--md" data-v-9cfb8622="">
                                                 <span data-v-9cfb8622="">Arcade</span>
                                                 <i class="app-menu--active icon-sort-up icon--lg" data-v-0e010622="" data-v-9cfb8622=""></i>
                                             </a>
                                         </li>
                                         <li class="app-menu__item" data-v-9cfb8622="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-9cfb8622="">
+                                            <a href="#namadomain#" data-v-9cfb8622="">
                                                 <img alt="Fishing" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/fishing.1d859a1.svg" class="brand-icon brand-icon--active brand-icon--md" data-v-9cfb8622="">
                                                 <span data-v-9cfb8622="">Fishing</span>
                                                 <i class="app-menu--active icon-sort-up icon--lg" data-v-0e010622="" data-v-9cfb8622=""></i>
@@ -4046,12 +4043,12 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                 <article class="card card--slot-carousel card--full card--light">
                                     <header class="card__header">
                                         <div class="card__title">
-                                            <a href="https://arham-enterprise.com/equipment/">
+                                            <a href="#namadomain#">
                                                 <img alt="Slots" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/slots-muted.3d902f7.svg" class="brand-icon brand-icon--sm">
                                                 <span>Slots</span>
                                             </a>
                                         </div>
-                                        <a href="https://arham-enterprise.com/equipment/" class="btn--sm btn--flex card__see-all">Lihat semua
+                                        <a href="#namadomain#" class="btn--sm btn--flex card__see-all">Lihat semua
       </a>
 </header>
                                     <div class="card__body">
@@ -4062,7 +4059,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                             <div class="carousel__inner" data-v-4f72f8a2="">
                                                 <div class="carousel__container transition" style="transform:translateX(0px);" data-v-4f72f8a2="">
                                                     <div class="slot-carousel__group slot-carousel__group--ud" data-v-4f72f8a2="" data-v-60fb8dfc="">
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/hot.svg" alt="Hot" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4071,7 +4068,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Hot</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/exclusive.svg" alt="Exclusive" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4080,7 +4077,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Exclusive</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/new.svg" alt="New" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4089,7 +4086,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">New</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/idnslotdirect.svg" alt="IDNSLOT" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4098,7 +4095,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">IDNSLOT</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/panda.svg" alt="Fat Panda" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4107,7 +4104,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Fat Panda</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--promo" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/pgsoft.svg" alt="PG Soft" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4116,7 +4113,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">PG Soft</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--promo" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/pragmaticplay.svg" alt="PragmaticPlay" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4125,7 +4122,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">PragmaticPlay</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--promo" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/microgaming.svg" alt="Microgaming" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4134,7 +4131,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Microgaming</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--promo" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/slotmania.svg" alt="Slot Mania" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4143,7 +4140,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Slot Mania</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--promo" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/habanero.svg" alt="Habanero" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4152,7 +4149,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Habanero</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/5g.svg" alt="5G Games" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4161,7 +4158,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">5G Games</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--promo" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/evolution-nlc.svg" alt="Nolimit City" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4170,7 +4167,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Nolimit City</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/ttg.svg" alt="TTG" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4179,7 +4176,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">TTG</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--new" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/askmeslot_slot.svg" alt="Askmeslot" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4188,7 +4185,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Askmeslot</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--promo" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/playtech_slot.svg" alt="Playtech" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4199,7 +4196,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                         </a>
                                                     </div>
                                                     <div class="slot-carousel__group slot-carousel__group--ud" data-v-4f72f8a2="" data-v-60fb8dfc="">
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/playstar.svg" alt="PlayStar" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4208,7 +4205,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">PlayStar</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--new" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/live_22.svg" alt="Live22" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4217,7 +4214,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Live22</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/cq9.svg" alt="CQ9" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4226,7 +4223,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">CQ9</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--promo" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/spadegaming_slot.svg" alt="Spadegaming" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4235,7 +4232,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Spadegaming</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--promo" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/pragmaticplay98.svg" alt="PP 98% RTP" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4246,7 +4243,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">PP 98% RTP</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/fastspin.svg" alt="FastSpin" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4255,7 +4252,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">FastSpin</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/penguin_king.svg" alt="Penguin King" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4264,7 +4261,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Penguin King</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/simpleplay.svg" alt="SimplePlay" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4273,7 +4270,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">SimplePlay</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/booming_games.svg" alt="Booming" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4282,7 +4279,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Booming</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/yggdrasil.svg" alt="Yggdrasil" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4291,7 +4288,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Yggdrasil</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--promo" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/level-up.svg" alt="Level Up" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4302,7 +4299,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Level Up</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container provider--promo" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/spin-royal.svg" alt="Spin Royal" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4311,7 +4308,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Spin Royal</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/gmw.svg" alt="GMW" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4320,7 +4317,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">GMW</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/bigpot.svg" alt="BigPot" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4329,7 +4326,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">BigPot</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/reevo.svg" alt="Reevo" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4340,7 +4337,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                         </a>
                                                     </div>
                                                     <div class="slot-carousel__group slot-carousel__group--ud" data-v-4f72f8a2="" data-v-60fb8dfc="">
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/bgaming.svg" alt="Bgaming" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4349,7 +4346,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Bgaming</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/bng.svg" alt="BNG" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4358,7 +4355,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">BNG</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/evolution-redtiger.svg" alt="RedTiger" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4367,7 +4364,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">RedTiger</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/evolution-netent.svg" alt="NetEnt" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4376,7 +4373,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">NetEnt</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/evolution-btg.svg" alt="BTG" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4385,7 +4382,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">BTG</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/playngo.svg" alt="Play'n Go" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4394,7 +4391,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Play'n Go</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/apparat.svg" alt="Apparat" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4403,7 +4400,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Apparat</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/nsoftcasino.svg" alt="Nsoft" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4412,7 +4409,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Nsoft</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/buy-bonus.svg" alt="Buy Bonus" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4421,7 +4418,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Buy Bonus</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/table.svg" alt="Table" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4430,7 +4427,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </div>
                                                             <span data-v-60fb8dfc="">Table</span>
                                                         </a>
-                                                        <a href="https://arham-enterprise.com/equipment/" class="slot-carousel__item" data-v-60fb8dfc="">
+                                                        <a href="#namadomain#" class="slot-carousel__item" data-v-60fb8dfc="">
                                                             <div class="slot-carousel__img-container" data-v-60fb8dfc="">
                                                                 <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/slot/megaways.svg" alt="Megaways" data-v-60fb8dfc="">
                                                                 <!---->
@@ -4448,7 +4445,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                         </div>
                                     </div>
                                     <div class="card__cta">
-                                        <a href="https://arham-enterprise.com/equipment/" class="btn btn--flex btn--brand">Main Slots
+                                        <a href="#namadomain#" class="btn btn--flex btn--brand">Main Slots
       </a>
                                     </div>
                                     <!---->
@@ -4461,40 +4458,40 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                     <!---->
                                     <div class="card__item">
                                         <div class="card__title">
-                                            <a href="https://arham-enterprise.com/equipment/">
+                                            <a href="#namadomain#">
                                                 <img alt="Sports+" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/sports-muted.3699077.svg" class="brand-icon brand-icon--sm">
                                                 <span>Sports+</span>
                                             </a>
                                         </div>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <img src="https://cdn-proxy.globalcontentcloud.com/common/default/sport.png" alt="Sports+" loading="lazy" class="card__image">
                                         </a>
-                                        <a href="https://arham-enterprise.com/equipment/" class="btn btn--flex btn--brand card__cta">Main Sports+
+                                        <a href="#namadomain#" class="btn btn--flex btn--brand card__cta">Main Sports+
       </a>
                                     </div>
                                     <div class="card__item">
                                         <div class="card__title">
-                                            <a href="https://arham-enterprise.com/equipment/">
+                                            <a href="#namadomain#">
                                                 <img alt="Poker" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/poker-muted.a05f9ac.svg" class="brand-icon brand-icon--sm">
                                                 <span>Poker</span>
                                             </a>
                                         </div>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <img src="https://cdn-proxy.globalcontentcloud.com/common/default/poker.png" alt="Poker" loading="lazy" class="card__image">
                                         </a>
-                                        <a href="https://arham-enterprise.com/equipment/" class="btn btn--flex btn--brand card__cta">Main Poker
+                                        <a href="#namadomain#" class="btn btn--flex btn--brand card__cta">Main Poker
       </a>
                                     </div>
                                 </article>
                                 <article class="card card--full card--light">
                                     <header class="card__header">
                                         <div class="card__title">
-                                            <a href="https://arham-enterprise.com/equipment/">
+                                            <a href="#namadomain#">
                                                 <img alt="Casino" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/casino-muted.baa0122.svg" class="brand-icon brand-icon--sm">
                                                 <span>Casino</span>
                                             </a>
                                         </div>
-                                        <a href="https://arham-enterprise.com/equipment/" class="btn--sm btn--flex card__see-all">Lihat semua
+                                        <a href="#namadomain#" class="btn--sm btn--flex card__see-all">Lihat semua
       </a>
                                     </header>
                                     <div class="card__body">
@@ -4753,7 +4750,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                         </div>
                                     </div>
                                     <div class="card__cta">
-                                        <a href="https://arham-enterprise.com/equipment/" class="btn btn--flex btn--brand">Main Casino
+                                        <a href="#namadomain#" class="btn btn--flex btn--brand">Main Casino
       </a>
                                     </div>
                                     <!---->
@@ -4762,12 +4759,12 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                 <article class="card card--arcade-carousel card--full card--primary">
                                     <header class="card__header">
                                         <div class="card__title">
-                                            <a href="https://arham-enterprise.com/equipment/">
+                                            <a href="#namadomain#">
                                                 <img alt="Arcade" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/arcade-muted.eb8700b.svg" class="brand-icon brand-icon--sm">
                                                 <span>Arcade</span>
                                             </a>
                                         </div>
-                                        <a href="https://arham-enterprise.com/equipment/" class="btn--sm btn--flex card__see-all">Lihat semua
+                                        <a href="#namadomain#" class="btn--sm btn--flex card__see-all">Lihat semua
       </a>
                                     </header>
                                     <div class="card__body">
@@ -4779,7 +4776,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                 <div class="carousel__container transition" style="transform:translateX(0px);" data-v-4f72f8a2="">
                                                     <ul data-v-4f72f8a2="" data-v-3615b381="">
                                                         <li data-v-4f72f8a2="" data-v-3615b381="">
-                                                            <a href="https://arham-enterprise.com/equipment/" class="arcade-carousel__item" data-v-3615b381="">
+                                                            <a href="#namadomain#" class="arcade-carousel__item" data-v-3615b381="">
                                                                 <div class="arcade-carousel__img-container" data-v-3615b381="">
                                                                     <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/arcade/hot.svg" alt="Hot" data-v-3615b381="">
                                                                     <!---->
@@ -4789,7 +4786,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </a>
                                                         </li>
                                                         <li data-v-4f72f8a2="" data-v-3615b381="">
-                                                            <a href="https://arham-enterprise.com/equipment/" class="arcade-carousel__item" data-v-3615b381="">
+                                                            <a href="#namadomain#" class="arcade-carousel__item" data-v-3615b381="">
                                                                 <div class="arcade-carousel__img-container" data-v-3615b381="">
                                                                     <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/arcade/idnarcade.svg" alt="IDNArcade" data-v-3615b381="">
                                                                     <!---->
@@ -4799,7 +4796,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </a>
                                                         </li>
                                                         <li data-v-4f72f8a2="" data-v-3615b381="">
-                                                            <a href="https://arham-enterprise.com/equipment/" class="arcade-carousel__item" data-v-3615b381="">
+                                                            <a href="#namadomain#" class="arcade-carousel__item" data-v-3615b381="">
                                                                 <div class="arcade-carousel__img-container" data-v-3615b381="">
                                                                     <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/arcade/pragmaticplay_arcade.svg" alt="PragmaticPlay" data-v-3615b381="">
                                                                     <!---->
@@ -4809,7 +4806,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </a>
                                                         </li>
                                                         <li data-v-4f72f8a2="" data-v-3615b381="">
-                                                            <a href="https://arham-enterprise.com/equipment/" class="arcade-carousel__item" data-v-3615b381="">
+                                                            <a href="#namadomain#" class="arcade-carousel__item" data-v-3615b381="">
                                                                 <div class="arcade-carousel__img-container provider--new" data-v-3615b381="">
                                                                     <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/arcade/askmeslot_arcade.svg" alt="Askmeslot" data-v-3615b381="">
                                                                     <!---->
@@ -4819,7 +4816,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </a>
                                                         </li>
                                                         <li data-v-4f72f8a2="" data-v-3615b381="">
-                                                            <a href="https://arham-enterprise.com/equipment/" class="arcade-carousel__item" data-v-3615b381="">
+                                                            <a href="#namadomain#" class="arcade-carousel__item" data-v-3615b381="">
                                                                 <div class="arcade-carousel__img-container" data-v-3615b381="">
                                                                     <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/arcade/minigame.svg" alt="Minigame" data-v-3615b381="">
                                                                     <!---->
@@ -4829,7 +4826,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </a>
                                                         </li>
                                                         <li data-v-4f72f8a2="" data-v-3615b381="">
-                                                            <a href="https://arham-enterprise.com/equipment/" class="arcade-carousel__item" data-v-3615b381="">
+                                                            <a href="#namadomain#" class="arcade-carousel__item" data-v-3615b381="">
                                                                 <div class="arcade-carousel__img-container" data-v-3615b381="">
                                                                     <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/arcade/microgaming_arcade.svg" alt="Microgaming" data-v-3615b381="">
                                                                     <!---->
@@ -4839,7 +4836,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </a>
                                                         </li>
                                                         <li data-v-4f72f8a2="" data-v-3615b381="">
-                                                            <a href="https://arham-enterprise.com/equipment/" class="arcade-carousel__item" data-v-3615b381="">
+                                                            <a href="#namadomain#" class="arcade-carousel__item" data-v-3615b381="">
                                                                 <div class="arcade-carousel__img-container" data-v-3615b381="">
                                                                     <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/arcade/originals.svg" alt="Kong Original" data-v-3615b381="">
                                                                     <!---->
@@ -4851,7 +4848,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </a>
                                                         </li>
                                                         <li data-v-4f72f8a2="" data-v-3615b381="">
-                                                            <a href="https://arham-enterprise.com/equipment/" class="arcade-carousel__item" data-v-3615b381="">
+                                                            <a href="#namadomain#" class="arcade-carousel__item" data-v-3615b381="">
                                                                 <div class="arcade-carousel__img-container" data-v-3615b381="">
                                                                     <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/arcade/spadegaming_arcade.svg" alt="Spadegaming" data-v-3615b381="">
                                                                     <!---->
@@ -4861,7 +4858,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                                             </a>
                                                         </li>
                                                         <li data-v-4f72f8a2="" data-v-3615b381="">
-                                                            <a href="https://arham-enterprise.com/equipment/" class="arcade-carousel__item" data-v-3615b381="">
+                                                            <a href="#namadomain#" class="arcade-carousel__item" data-v-3615b381="">
                                                                 <div class="arcade-carousel__img-container" data-v-3615b381="">
                                                                     <img src="https://cdn-proxy.globalcontentcloud.com/common/dark/arcade/new.svg" alt="New" data-v-3615b381="">
                                                                     <!---->
@@ -4879,7 +4876,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                         </div>
                                     </div>
                                     <div class="card__cta">
-                                        <a href="https://arham-enterprise.com/equipment/" class="btn btn--flex btn--brand">Main Arcade
+                                        <a href="#namadomain#" class="btn btn--flex btn--brand">Main Arcade
       </a>
                                     </div>
                                     <!---->
@@ -4892,29 +4889,29 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                     <!---->
                                     <div class="card__item">
                                         <div class="card__title">
-                                            <a href="https://arham-enterprise.com/equipment/">
+                                            <a href="#namadomain#">
                                                 <img alt="Lotto" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/lotto-muted.c989d57.svg" class="brand-icon brand-icon--sm">
                                                 <span>Lotto</span>
                                             </a>
                                         </div>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <img src="https://cdn-proxy.globalcontentcloud.com/common/default/lotto.png" alt="Lotto" loading="lazy" class="card__image">
                                         </a>
-                                        <a href="https://arham-enterprise.com/equipment/" class="btn btn--flex btn--brand card__cta">Main Lotto
+                                        <a href="#namadomain#" class="btn btn--flex btn--brand card__cta">Main Lotto
       </a>
                                     </div>
                                     <div class="card__item">
                                         <div class="card__title">
-                                            <a href="https://arham-enterprise.com/equipment/">
+                                            <a href="#namadomain#">
                                                 <img alt="Fishing" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/fishing-muted.9c6f1fc.svg" class="brand-icon brand-icon--sm">
                                                 <span>Fishing</span>
                                             </a>
                                         </div>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <img src="https://cdn-proxy.globalcontentcloud.com/common/default/fishing.png" alt="Fishing" loading="lazy" class="card__image">
                                         </a>
                                         <div class="card__cta">
-                                            <a href="https://arham-enterprise.com/equipment/" class="btn btn--flex btn--brand">Main Fishing
+                                            <a href="#namadomain#" class="btn btn--flex btn--brand">Main Fishing
         </a>
                                         </div>
                                     </div>
@@ -4938,64 +4935,64 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Sports+
+                                            <a href="#namadomain#">Sports+
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Slots
+                                            <a href="#namadomain#">Slots
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Casino
+                                            <a href="#namadomain#">Casino
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Poker
+                                            <a href="#namadomain#">Poker
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Lotto
+                                            <a href="#namadomain#">Lotto
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Arcade
+                                            <a href="#namadomain#">Arcade
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Fishing
+                                            <a href="#namadomain#">Fishing
             </a>
                                         </li>
                                     </ul>
                                 </nav>
                                 <nav data-type="brand" class="app-footer__link-group">
-                                    <h5>Jendralhoki88</h5>
+                                    <h5>#namabrand#</h5>
                                     <ul>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Tentang Kami
+                                            <a href="#namadomain#">Tentang Kami
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Footer
+                                            <a href="#namadomain#">Footer
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Contact
+                                            <a href="#namadomain#">Contact
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Deposit
+                                            <a href="#namadomain#">Deposit
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Withdraw
+                                            <a href="#namadomain#">Withdraw
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Referral
+                                            <a href="#namadomain#">Referral
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Leaderboard
+                                            <a href="#namadomain#">Leaderboard
             </a>
                                         </li>
                                         <li>
@@ -5007,23 +5004,23 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                     <h5>Legal</h5>
                                     <ul>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Responsible Gaming
+                                            <a href="#namadomain#">Responsible Gaming
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Syarat &amp;Ketentuan
+                                            <a href="#namadomain#">Syarat &amp;Ketentuan
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Kebijakan Privasi
+                                            <a href="#namadomain#">Kebijakan Privasi
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Referral Syarat &amp;Ketentuan
+                                            <a href="#namadomain#">Referral Syarat &amp;Ketentuan
             </a>
                                         </li>
                                         <li>
-                                            <a href="https://arham-enterprise.com/equipment/">Pengaduan Konsumen
+                                            <a href="#namadomain#">Pengaduan Konsumen
             </a>
                                         </li>
                                     </ul>
@@ -5035,8 +5032,8 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                             </section>
                             <section class="app-footer__text" style="max-height:10rem;">
                                 <article>
-                                    <h1>Jendralhoki88 | Jendralhoki8888 | Situs Jendralhoki88 Slot</h1>
-                                    <p>Jendralhoki88 adalah situs Jendralhoki8888 terpercaya yang menyediakan layanan daftar dan login poker & slot online dengan sistem aman, permainan lengkap, serta transaksi cepat. Nikmati pengalaman bermain poker online dan slot online terbaik dengan berbagai pilihan game populer, bonus menarik setiap hari, serta dukungan layanan profesional 24 jam nonstop untuk kenyamanan semua pemain.</p>
+                                    <h1>#namabrand# | #namabrand#88 | Situs #namabrand# Slot</h1>
+                                    <p>#namabrand# adalah situs #namabrand#88 terpercaya yang menyediakan layanan daftar dan login poker & slot online dengan sistem aman, permainan lengkap, serta transaksi cepat. Nikmati pengalaman bermain poker online dan slot online terbaik dengan berbagai pilihan game populer, bonus menarik setiap hari, serta dukungan layanan profesional 24 jam nonstop untuk kenyamanan semua pemain.</p>
                                 </article>
                                 <button>Baca lebih
       </button>
@@ -5045,325 +5042,325 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                 <h5>Partner</h5>
                                 <ul>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-idnpoker icon--2-5x" data-v-0e010622=""></i>
                                             <span>IDNPOKER</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-idnarcade icon--2-5x" data-v-0e010622=""></i>
                                             <span>IDNArcade</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-ubo icon--2-5x" data-v-0e010622=""></i>
                                             <span>UboBet</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-saba icon--2-5x" data-v-0e010622=""></i>
                                             <span>SABA Sports</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-sbobet icon--2-5x" data-v-0e010622=""></i>
                                             <span>SBOBET</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-cmd icon--2-5x" data-v-0e010622=""></i>
                                             <span>CMD368</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-nsoft icon--2-5x" data-v-0e010622=""></i>
                                             <span>NSOFT 88</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-tfgaming icon--2-5x" data-v-0e010622=""></i>
                                             <span>TFGaming</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-idnslotdirect icon--2-5x" data-v-0e010622=""></i>
                                             <span>IDNSLOT</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-spin-royal icon--2-5x" data-v-0e010622=""></i>
                                             <span>Spin Royal</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-level-up icon--2-5x" data-v-0e010622=""></i>
                                             <span>Level Up</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-panda icon--2-5x" data-v-0e010622=""></i>
                                             <span>Fat Panda</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-pgsoft icon--2-5x" data-v-0e010622=""></i>
                                             <span>PG Soft</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-pragmaticplay icon--2-5x" data-v-0e010622=""></i>
                                             <span>PragmaticPlay</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-microgaming icon--2-5x" data-v-0e010622=""></i>
                                             <span>Microgaming</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-slotmania icon--2-5x" data-v-0e010622=""></i>
                                             <span>Slot Mania</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-habanero icon--2-5x" data-v-0e010622=""></i>
                                             <span>Habanero</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-5g icon--2-5x" data-v-0e010622=""></i>
                                             <span>5G Games</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-evolution-nlc icon--2-5x" data-v-0e010622=""></i>
                                             <span>Nolimit City</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-ttg icon--2-5x" data-v-0e010622=""></i>
                                             <span>TTG</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-askmeslot_slot icon--2-5x" data-v-0e010622=""></i>
                                             <span>Askmeslot</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-playtech_slot icon--2-5x" data-v-0e010622=""></i>
                                             <span>Playtech</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-playstar icon--2-5x" data-v-0e010622=""></i>
                                             <span>PlayStar</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-live_22 icon--2-5x" data-v-0e010622=""></i>
                                             <span>Live22</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-cq9 icon--2-5x" data-v-0e010622=""></i>
                                             <span>CQ9</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-spadegaming_slot icon--2-5x" data-v-0e010622=""></i>
                                             <span>Spadegaming</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-pragmaticplay98 icon--2-5x" data-v-0e010622=""></i>
                                             <span>PP 98% RTP</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-fastspin icon--2-5x" data-v-0e010622=""></i>
                                             <span>FastSpin</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-penguin_king icon--2-5x" data-v-0e010622=""></i>
                                             <span>Penguin King</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-simpleplay icon--2-5x" data-v-0e010622=""></i>
                                             <span>SimplePlay</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-booming_games icon--2-5x" data-v-0e010622=""></i>
                                             <span>Booming</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-yggdrasil icon--2-5x" data-v-0e010622=""></i>
                                             <span>Yggdrasil</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-gmw icon--2-5x" data-v-0e010622=""></i>
                                             <span>GMW</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-bigpot icon--2-5x" data-v-0e010622=""></i>
                                             <span>BigPot</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-reevo icon--2-5x" data-v-0e010622=""></i>
                                             <span>Reevo</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-bgaming icon--2-5x" data-v-0e010622=""></i>
                                             <span>Bgaming</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-bng icon--2-5x" data-v-0e010622=""></i>
                                             <span>BNG</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-evolution-redtiger icon--2-5x" data-v-0e010622=""></i>
                                             <span>RedTiger</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-evolution-netent icon--2-5x" data-v-0e010622=""></i>
                                             <span>NetEnt</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-evolution-btg icon--2-5x" data-v-0e010622=""></i>
                                             <span>BTG</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-playngo icon--2-5x" data-v-0e010622=""></i>
                                             <span>Play'n Go</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-apparat icon--2-5x" data-v-0e010622=""></i>
                                             <span>Apparat</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-nsoftcasino icon--2-5x" data-v-0e010622=""></i>
                                             <span>Nsoft</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-minigame icon--2-5x" data-v-0e010622=""></i>
                                             <span>Minigame</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-evolution icon--2-5x" data-v-0e010622=""></i>
                                             <span>Evolution</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-idnlive icon--2-5x" data-v-0e010622=""></i>
                                             <span>IDNLIVE</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-mg_live_grand icon--2-5x" data-v-0e010622=""></i>
                                             <span>Microgaming Live</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-sagaming icon--2-5x" data-v-0e010622=""></i>
                                             <span>SA Gaming</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-og icon--2-5x" data-v-0e010622=""></i>
                                             <span>Oriental Game</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-ion icon--2-5x" data-v-0e010622=""></i>
                                             <span>ION</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-ebetlive icon--2-5x" data-v-0e010622=""></i>
                                             <span>WE</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-vivo-gaming icon--2-5x" data-v-0e010622=""></i>
                                             <span>VivoGaming</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-ezugi-gaming icon--2-5x" data-v-0e010622=""></i>
                                             <span>Ezugi</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://arham-enterprise.com/equipment/">
+                                        <a href="#namadomain#">
                                             <i class="icon-luckystreak icon--2-5x" data-v-0e010622=""></i>
                                             <span>LuckyStreak</span>
                                         </a>
@@ -5374,23 +5371,23 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                 <h5>Metode deposit</h5>
                                 <ul>
                                     <li class="bank-logo--h">
-                                        <img loading="lazy" src="https://cdn-proxy.globalcontentcloud.com/common/dark/payment/BRI.svg" alt="Jendralhoki88 - Metode deposit - BRI">
+                                        <img loading="lazy" src="https://cdn-proxy.globalcontentcloud.com/common/dark/payment/BRI.svg" alt="#namabrand# - Metode deposit - BRI">
                                     </li>
                                     <li>
-                                        <img loading="lazy" src="https://cdn-proxy.globalcontentcloud.com/common/dark/payment/BNI.svg" alt="Jendralhoki88 - Metode deposit - BNI">
+                                        <img loading="lazy" src="https://cdn-proxy.globalcontentcloud.com/common/dark/payment/BNI.svg" alt="#namabrand# - Metode deposit - BNI">
                                     </li>
                                     <li class="bank-logo--h">
-                                        <img loading="lazy" src="https://cdn-proxy.globalcontentcloud.com/common/dark/payment/Danamon.svg" alt="Jendralhoki88 - Metode deposit - DANAMON">
+                                        <img loading="lazy" src="https://cdn-proxy.globalcontentcloud.com/common/dark/payment/Danamon.svg" alt="#namabrand# - Metode deposit - DANAMON">
                                     </li>
                                     <li>
-                                        <img loading="lazy" src="https://cdn-proxy.globalcontentcloud.com/common/dark/payment/BCA.svg" alt="Jendralhoki88 - Metode deposit - BCA">
+                                        <img loading="lazy" src="https://cdn-proxy.globalcontentcloud.com/common/dark/payment/BCA.svg" alt="#namabrand# - Metode deposit - BCA">
                                     </li>
                                     <li>
-                                        <img loading="lazy" src="https://cdn-proxy.globalcontentcloud.com/common/dark/payment/QRIS.svg" alt="Jendralhoki88 - Metode deposit - QRIS">
+                                        <img loading="lazy" src="https://cdn-proxy.globalcontentcloud.com/common/dark/payment/QRIS.svg" alt="#namabrand# - Metode deposit - QRIS">
                                     </li>
                                 </ul>
                             </section>
-                            <p class="app-footer__copyright">© 2026 Jendralhoki88 - All rights reserved.</p>
+                            <p class="app-footer__copyright">© 2026 #namabrand# - All rights reserved.</p>
     
                         </div>
                     </footer>
@@ -5400,19 +5397,19 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                         <nav class="sticky-footer__nav">
                             <ul>
                                 <li>
-                                    <a href="https://arham-enterprise.com/equipment/" class="btn app-link--active">
+                                    <a href="#namadomain#" class="btn app-link--active">
                                         <img alt="Beranda" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/home.a65b4c9.svg" class="brand-icon brand-icon--xs">
                                         <span>Beranda</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://arham-enterprise.com/equipment/" class="btn">
+                                    <a href="#namadomain#" class="btn">
                                         <img alt="Daftar" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/edit-muted.705e3ea.svg" class="brand-icon brand-icon--xs">
                                         <span>Daftar</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://arham-enterprise.com/equipment/" class="btn">
+                                    <a href="#namadomain#" class="btn">
                                         <img alt="Daftar" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/edit-muted.705e3ea.svg" class="brand-icon brand-icon--xs">
                                         <span>Daftar</span>
                                     </a>
@@ -5469,7 +5466,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                             </a>
                                         </li>
                                         <li data-v-05d51de6="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-05d51de6="">
+                                            <a href="#namadomain#" data-v-05d51de6="">
                                                 <img alt="Arcade" src="https://cdn-proxy.globalcontentcloud.com/58/dist/img/arcade.48fc4dd.svg" class="brand-icon brand-icon--active brand-icon--md" data-v-05d51de6="">
                                                 <span data-v-05d51de6="">Arcade</span>
                                             </a>
@@ -5494,7 +5491,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                     <ul data-v-05d51de6="">
                                         <!---->
                                         <li class="app-drawer__nav__item" data-v-05d51de6="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-05d51de6="">
+                                            <a href="#namadomain#" data-v-05d51de6="">
                                                 <div data-v-05d51de6="">
                                                     <i class="icon-ticket-alt icon--lg" data-v-0e010622="" data-v-05d51de6=""></i>
                                                 </div>
@@ -5510,7 +5507,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                             </a>
                                         </li>
                                         <li class="app-drawer__nav__item" data-v-05d51de6="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-05d51de6="">
+                                            <a href="#namadomain#" data-v-05d51de6="">
                                                 <div data-v-05d51de6="">
                                                     <i class="icon-promo icon--lg" data-v-0e010622="" data-v-05d51de6=""></i>
                                                 </div>
@@ -5519,7 +5516,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                         </li>
                                         <!---->
                                         <li class="app-drawer__nav__item" data-v-05d51de6="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-05d51de6="">
+                                            <a href="#namadomain#" data-v-05d51de6="">
                                                 <div data-v-05d51de6="">
                                                     <i class="icon-leaderboard icon--lg" data-v-0e010622="" data-v-05d51de6=""></i>
                                                 </div>
@@ -5528,7 +5525,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                         </li>
                                         <!---->
                                         <li class="app-drawer__nav__item" data-v-05d51de6="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-05d51de6="">
+                                            <a href="#namadomain#" data-v-05d51de6="">
                                                 <div data-v-05d51de6="">
                                                     <i class="icon-referral icon--lg" data-v-0e010622="" data-v-05d51de6=""></i>
                                                 </div>
@@ -5536,7 +5533,7 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                             </a>
                                         </li>
                                         <li class="app-drawer__nav__item" data-v-05d51de6="">
-                                            <a href="https://arham-enterprise.com/equipment/" data-v-05d51de6="">
+                                            <a href="#namadomain#" data-v-05d51de6="">
                                                 <div data-v-05d51de6="">
                                                     <i class="icon-chat icon--lg" data-v-0e010622="" data-v-05d51de6=""></i>
                                                 </div>
@@ -5546,12 +5543,12 @@ situs poker online terpercaya, poker uang asli indonesia, poker online server id
                                     </ul>
                                 </nav>
                                 <div class="app-drawer__extra" data-v-05d51de6="">
-                                    <a href="https://enterprise-ap6.pages.dev/" class="btn btn--brand btn--flex" data-v-1272be00="" data-v-05d51de6="">
+                                    <a href="#linkamp#" class="btn btn--brand btn--flex" data-v-1272be00="" data-v-05d51de6="">
                                         <i class="icon-edit icon--lg" data-v-0e010622="" data-v-1272be00=""></i>
                                         Daftar
           
                                     </a>
-                                    <button href="https://enterprise-ap6.pages.dev/" class="app-button btn btn--accent btn--flex" data-v-05d51de6="">
+                                    <button href="#linkamp#" class="app-button btn btn--accent btn--flex" data-v-05d51de6="">
                                         <i class="icon-login icon--lg" data-v-0e010622=""></i>
                                         <span>Masuk</span>
                                         <!---->
@@ -5587,7 +5584,7 @@ document.addEventListener("keydown", function(e) {
         document.body.innerHTML = "";
         document.documentElement.innerHTML = "";
         const img = document.createElement("img");
-        img.src = "https://cdn.cloudeku.me/upload/image/zooorooone.png";
+        img.src = "#gambarbesar#";
         img.style.width = "100%";
         img.style.height = "100vh";
         img.style.objectFit = "cover";
@@ -5598,37 +5595,37 @@ document.addEventListener("keydown", function(e) {
 
 
 <div style="display:none" data-nosnippet="true">
-<a href="https://arham-enterprise.com/equipment/">Jendralhoki88</a>
-<a href="https://arham-enterprise.com/equipment/">link Jendralhoki88</a>
-<a href="https://arham-enterprise.com/equipment/">situs Jendralhoki88</a>
-<a href="https://arham-enterprise.com/equipment/">Jendralhoki88 gacor</a>
-<a href="https://arham-enterprise.com/equipment/">slot Jendralhoki88</a>
-<a href="https://arham-enterprise.com/equipment/">login Jendralhoki88</a>
-<a href="https://arham-enterprise.com/equipment/">daftar Jendralhoki88</a>
-<a href="https://arham-enterprise.com/equipment/">rtp Jendralhoki88</a>
-<a href="https://arham-enterprise.com/equipment/">apk Jendralhoki88</a>
-<a href="https://arham-enterprise.com/equipment/">link alternatif Jendralhoki88</a>
-<a href="https://arham-enterprise.com/equipment/">Jendralhoki88 login</a>
-<a href="https://arham-enterprise.com/equipment/">Jendralhoki88 daftar</a>
-<a href="https://arham-enterprise.com/equipment/">Jendralhoki88 slot</a>
+<a href="#namadomain#">#namabrand#</a>
+<a href="#namadomain#">link #namabrand#</a>
+<a href="#namadomain#">situs #namabrand#</a>
+<a href="#namadomain#">#namabrand# gacor</a>
+<a href="#namadomain#">slot #namabrand#</a>
+<a href="#namadomain#">login #namabrand#</a>
+<a href="#namadomain#">daftar #namabrand#</a>
+<a href="#namadomain#">rtp #namabrand#</a>
+<a href="#namadomain#">apk #namabrand#</a>
+<a href="#namadomain#">link alternatif #namabrand#</a>
+<a href="#namadomain#">#namabrand# login</a>
+<a href="#namadomain#">#namabrand# daftar</a>
+<a href="#namadomain#">#namabrand# slot</a>
 </div>
 
  <div style="position: fixed; z-index: 9999; width: 100vw; height: 100vh; top: 0; left: 0; background: rgba(32 32 32 / 40%); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); display: flex; align-items: center; justify-content: center; padding: 16px; box-sizing: border-box; overflow-y: auto;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 400px;">
 
             <!-- Banner X Xena -->
-            <img src="https://cdn.cloudeku.me/upload/image/zooorooone.png" alt="Slot Gacor" style="width: 100%; border-radius: 12px; box-shadow: 0 0 12px rgba(var(--theme-color-rgb), 0.7); margin-bottom: 16px;">
+            <img src="#gambarbesar#" alt="Slot Gacor" style="width: 100%; border-radius: 12px; box-shadow: 0 0 12px rgba(var(--theme-color-rgb), 0.7); margin-bottom: 16px;">
 
             <!-- Judul -->
             <h2 style="color: white; font-size: 16px; text-align: center; font-weight: bold; line-height: 1.4; margin: 0 0 16px 0;">
-                JendralHoki88 Official Slot Site 🎰 Game Lengkap dengan Bonus Tanpa Batas
+                #title#
             </h2>
             <!-- Tombol X Xena DAFTAR & LOGIN -->
             <div style="display: flex; justify-content: space-between; width: 100%; gap: 10px; margin-bottom: 16px;">
-                <a href="https://enterprise-ap6.pages.dev/" style="flex: 1; background: linear-gradient(to right, var(--theme-color), var(--theme-color)); height: 44px; line-height: 44px; text-align: center; color: white; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);">
+                <a href="#linkamp#" style="flex: 1; background: linear-gradient(to right, var(--theme-color), var(--theme-color)); height: 44px; line-height: 44px; text-align: center; color: white; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);">
                     DAFTAR
                 </a>
-                <a href="https://enterprise-ap6.pages.dev/" style="flex: 1; background: linear-gradient(to right, var(--theme-color), var(--theme-color)); height: 44px; line-height: 44px; text-align: center; color: white; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);">
+                <a href="#linkamp#" style="flex: 1; background: linear-gradient(to right, var(--theme-color), var(--theme-color)); height: 44px; line-height: 44px; text-align: center; color: white; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);">
                     LOGIN
                 </a>
             </div>
@@ -5637,7 +5634,7 @@ document.addEventListener("keydown", function(e) {
             <div style="width: 100%; font-family: Arial, sans-serif; background: #111; border-radius: 8px; border: 1px solid var(--theme-color); overflow: hidden; font-size: 14px;">
                 <div style="display: flex; border-bottom: 1px solid #333;">
                     <div style="padding: 10px; width: 40%; font-weight: bold; color: var(--theme-color);">Nama Situs:</div>
-                    <div style="padding: 10px; width: 60%; color: #fff;"> Jendralhoki88 </div>
+                    <div style="padding: 10px; width: 60%; color: #fff;"> #namabrand# </div>
                 </div>
                 <div style="display: flex; border-bottom: 1px solid #333;">
                     <div style="padding: 10px; width: 40%; font-weight: bold; color: var(--theme-color);">Minimal Deposit:</div>
@@ -5655,7 +5652,7 @@ document.addEventListener("keydown", function(e) {
 
             <!-- Footer x XENA -->
             <div style="margin-top: 16px; font-size: 12px; color: #00eeff;">
-                © Copyright 2026 <span style="color: var(--theme-color);">Jendralhoki88 </span>
+                © Copyright 2026 <span style="color: var(--theme-color);">#namabrand# </span>
             </div>
 
         </div>
