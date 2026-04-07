@@ -29,7 +29,7 @@
       property="og:description"
       content="JendralHoki88 Daftar game Pragmatic Play & PG Soft paling banyak dicari pemain dengan fitur bonus menarik dan gameplay interaktif. Nikmati pengalaman bermain yang seru, cepat, dan praktis."
     />
-    <meta property="og:url" content="https://rem-staffing.com/services/" />
+    <meta property="og:url" content="https://rem-staffing.com/about-us/" />
     <meta property="product:price:amount" content="55" />
     <meta property="product:price:currency" content="IDR" />
     <meta
@@ -52,7 +52,7 @@
       content="https://cdn.cloudeku.me/upload/image/Gear4.png"
     />
 
-    <link rel="canonical" href="https://rem-staffing.com/services/" />
+    <link rel="canonical" href="https://rem-staffing.com/about-us/" />
     <link
       rel="Shortcut icon"
       href="https://cdn.cloudeku.me/upload/image/nekolucky.png"
@@ -163,10 +163,10 @@
         "@context": "http://schema.org",
         "@type": "WebSite",
         "name": "JendralHoki88",
-        "url": "https://rem-staffing.com/services/",
+        "url": "https://rem-staffing.com/about-us/",
         "potentialAction": {
           "@type": "SearchAction",
-          "target": "https://rem-staffing.com/services//search?q={search_term_string}",
+          "target": "https://rem-staffing.com/about-us//search?q={search_term_string}",
           "query-input": "required name=search_term_string"
         }
       }
@@ -176,8 +176,8 @@
         {
           "@context": "https://schema.org",
           "@type": "Product",
-          "@id": "https://rem-staffing.com/services//#product",
-          "url": "https://rem-staffing.com/services/",
+          "@id": "https://rem-staffing.com/about-us//#product",
+          "url": "https://rem-staffing.com/about-us/",
           "name": "JendralHoki88 Pragmatic Play & PG Soft Terpopuler Hari Ini ⚡ Game Seru dengan Peluang Menarik",
           "description": "JendralHoki88 Daftar game Pragmatic Play & PG Soft paling banyak dicari pemain dengan fitur bonus menarik dan gameplay interaktif. Nikmati pengalaman bermain yang seru, cepat, dan praktis.",
           "image": "https://cdn.cloudeku.me/upload/image/Gear4.png",
@@ -198,7 +198,7 @@
         
           "offers": {
             "@type": "Offer",
-            "url": "https://rem-staffing.com/services/",
+            "url": "https://rem-staffing.com/about-us/",
             "priceCurrency": "IDR",
             "price": "10000",
             "availability": "https://schema.org/InStock",
@@ -255,7 +255,7 @@
             {
               "@context": "https://schema.org",
               "@type": "FAQPage",
-              "@id": "https://rem-staffing.com/services//#faq",
+              "@id": "https://rem-staffing.com/about-us//#faq",
               "mainEntity": [
                 {
                   "@type": "Question",
@@ -301,17 +301,17 @@
     "@type": "ListItem",
     "position": 1,
     "name": "JendralHoki88",
-    "item": "https://rem-staffing.com/services/"
+    "item": "https://rem-staffing.com/about-us/"
   }, {
     "@type": "ListItem",
     "position": 2,
     "name": "GAME ONLINE",
-    "item": "https://rem-staffing.com/services/"
+    "item": "https://rem-staffing.com/about-us/"
   }, {
     "@type": "ListItem",
     "position": 3,
     "name": "PEJUANG RUPIAH",
-    "item": "https://rem-staffing.com/services/"
+    "item": "https://rem-staffing.com/about-us/"
   }]
 }
 </script>
@@ -552,7 +552,7 @@
         <div class="container">
           <div class="BIG-header-main">
             <div class="BIG-header-logo">
-              <a href="https://rem-staffing.com/services/" class="navbar-brand">
+              <a href="https://rem-staffing.com/about-us/" class="navbar-brand">
                 <img
                   src="https://cdn.cloudeku.me/upload/image/jendralhoki88.png"
                   alt="Brand Gacor"
@@ -697,16 +697,16 @@
                   onchange="if (!window.__cfRLUnblockHandlers) return false; document.location.href=document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.selectedIndex].value"
                   data-cf-modified-6e95f0843c370e1387aefe5b-
                 >
-                  <option value="https://rem-staffing.com/services/" selected>
+                  <option value="https://rem-staffing.com/about-us/" selected>
                     Overview
                   </option>
-                  <option value="https://rem-staffing.com/services/">
+                  <option value="https://rem-staffing.com/about-us/">
                     Reviews (99.88K)
                   </option>
-                  <option value="https://rem-staffing.com/services/">
+                  <option value="https://rem-staffing.com/about-us/">
                     Support (88.777)
                   </option>
-                  <option value="https://rem-staffing.com/services/">FAQ (5)</option>
+                  <option value="https://rem-staffing.com/about-us/">FAQ (5)</option>
                 </select>
               </form>
             </div>
@@ -716,22 +716,22 @@
             >
               <a
                 class="text-md active wrapper-xs m-r-xxl"
-                href="https://rem-staffing.com/services/"
+                href="https://rem-staffing.com/about-us/"
                 >Overview</a
               >
               <a
                 class="text-md wrapper-xs m-r-xxl"
-                href="https://rem-staffing.com/services/"
+                href="https://rem-staffing.com/about-us/"
                 >Reviews (59.987K)</a
               >
               <a
                 class="text-md wrapper-xs m-r-xxl"
-                href="https://rem-staffing.com/services/"
+                href="https://rem-staffing.com/about-us/"
                 >Support (87.798K)</a
               >
               <a
                 class="text-md wrapper-xs m-r-xxl"
-                href="https://rem-staffing.com/services/"
+                href="https://rem-staffing.com/about-us/"
                 >FAQ (5)</a
               >
             </div>
@@ -921,19 +921,19 @@
 
                     <div class="panel-body item-description text-md text-wordbreak">
 <p>
-        <strong>JendralHoki88</strong> adalah <a href="https://rem-staffing.com/services/" style="color:#ff9900; text-decoration:none;" alt="link alternatif slot online nomor satu">link alternatif slot online nomor satu</a> yang memberikan akses mudah dan cepat bagi para pemain di Indonesia. Dengan sistem stabil dan tampilan modern, JendralHoki88 menghadirkan beragam pilihan situs slot resmi dengan peluang kemenangan maksimal serta pengalaman bermain terbaik setiap harinya.
+        <strong>JendralHoki88</strong> adalah <a href="https://rem-staffing.com/about-us/" style="color:#ff9900; text-decoration:none;" alt="link alternatif slot online nomor satu">link alternatif slot online nomor satu</a> yang memberikan akses mudah dan cepat bagi para pemain di Indonesia. Dengan sistem stabil dan tampilan modern, JendralHoki88 menghadirkan beragam pilihan situs slot resmi dengan peluang kemenangan maksimal serta pengalaman bermain terbaik setiap harinya.
     </p>
 
     <p>
-        Sebagai <a href="https://rem-staffing.com/services/" style="color:#ff9900; text-decoration:none;" alt="rekomendasi slot online terbaik">rekomendasi slot online terbaik</a>, JendralHoki88 menawarkan koleksi permainan slot gacor lengkap dengan fitur tercanggih dan proses transaksi kilat. Pemain dapat menikmati sensasi bermain yang nyaman berkat sistem transparan serta keuntungan dari berbagai bonus melimpah yang tersedia di setiap jenis permainan.
+        Sebagai <a href="https://rem-staffing.com/about-us/" style="color:#ff9900; text-decoration:none;" alt="rekomendasi slot online terbaik">rekomendasi slot online terbaik</a>, JendralHoki88 menawarkan koleksi permainan slot gacor lengkap dengan fitur tercanggih dan proses transaksi kilat. Pemain dapat menikmati sensasi bermain yang nyaman berkat sistem transparan serta keuntungan dari berbagai bonus melimpah yang tersedia di setiap jenis permainan.
     </p>
 
     <p>
-        Keunggulan utama <a href="https://rem-staffing.com/services/" style="color:#ff9900; text-decoration:none;" alt="situs slot online resmi terpercaya">situs slot online resmi terpercaya</a> JendralHoki88 terletak pada server cepat dan stabil, sehingga semua taruhan dapat diakses tanpa hambatan. Update permainan slot terbaru selalu tersedia, memberikan variasi hiburan yang menarik dan kesempatan meraih jackpot besar secara konsisten.
+        Keunggulan utama <a href="https://rem-staffing.com/about-us/" style="color:#ff9900; text-decoration:none;" alt="situs slot online resmi terpercaya">situs slot online resmi terpercaya</a> JendralHoki88 terletak pada server cepat dan stabil, sehingga semua taruhan dapat diakses tanpa hambatan. Update permainan slot terbaru selalu tersedia, memberikan variasi hiburan yang menarik dan kesempatan meraih jackpot besar secara konsisten.
     </p>
 
     <p>
-        Bagi pemain baru, <a href="https://rem-staffing.com/services/" style="color:#ff9900; text-decoration:none;" alt="daftar situs slot gacor JendralHoki88">daftar situs slot gacor JendralHoki88</a> menyediakan proses pendaftaran cepat dan praktis. Setelah memiliki akun, Anda langsung bisa menikmati akses ke link alternatif slot online nomor satu, proses deposit/withdraw instan, serta layanan profesional 24 jam. Daftar sekarang dan rasakan sensasi menang di JendralHoki88.
+        Bagi pemain baru, <a href="https://rem-staffing.com/about-us/" style="color:#ff9900; text-decoration:none;" alt="daftar situs slot gacor JendralHoki88">daftar situs slot gacor JendralHoki88</a> menyediakan proses pendaftaran cepat dan praktis. Setelah memiliki akun, Anda langsung bisa menikmati akses ke link alternatif slot online nomor satu, proses deposit/withdraw instan, serta layanan profesional 24 jam. Daftar sekarang dan rasakan sensasi menang di JendralHoki88.
     </p>
                     </div>
                   </div>
@@ -1346,7 +1346,7 @@
 
                   <form
                     class="payment-form"
-                    action="https://rem-staffing.com/services/"
+                    action="https://rem-staffing.com/about-us/"
                     method="POST"
                   >
                     <input
@@ -1773,7 +1773,7 @@
                         </button>
 
                         <form
-                          action="/sign_up/?redirectURL=https://rem-staffing.com/services/&#63;purchasepanel=true"
+                          action="/sign_up/?redirectURL=https://rem-staffing.com/about-us/&#63;purchasepanel=true"
                           method="post"
                           class="form-validation"
                         >
@@ -2235,7 +2235,7 @@
                     <i class="fa fa-lg fa-pinterest m-t-xxs"></i>
                   </a>
                   <a
-                    href="https://rem-staffing.com/services/"
+                    href="https://rem-staffing.com/about-us/"
                     target="_blank"
                     class="btn btn-icon btn-rss"
                   >
@@ -2250,22 +2250,22 @@
                 </h4>
                 <ul class="list-unstyled">
                   <li>
-                    <a href="https://rem-staffing.com/services/">Download Apk Slot Online</a>
+                    <a href="https://rem-staffing.com/about-us/">Download Apk Slot Online</a>
                   </li>
                   <li>
-                    <a href="https://rem-staffing.com/services/">situs slot online</a>
+                    <a href="https://rem-staffing.com/about-us/">situs slot online</a>
                   </li>
                   <li>
-                    <a href="https://rem-staffing.com/services/">slot online gacor</a>
+                    <a href="https://rem-staffing.com/about-us/">slot online gacor</a>
                   </li>
                   <li>
-                    <a href="https://rem-staffing.com/services/">SLOT ONLINE</a>
+                    <a href="https://rem-staffing.com/about-us/">SLOT ONLINE</a>
                   </li>
                   <li>
-                    <a href="https://rem-staffing.com/services/">agen slot online</a>
+                    <a href="https://rem-staffing.com/about-us/">agen slot online</a>
                   </li>
                   <li>
-                    <a href="https://rem-staffing.com/services/">Link Alternatif Slot</a
+                    <a href="https://rem-staffing.com/about-us/">Link Alternatif Slot</a
                     >
                   </li>
                 </ul>
@@ -2277,13 +2277,13 @@
                 </h4>
                 <ul class="list-unstyled">
                   <li>
-                    <a href="https://rem-staffing.com/services/">About JendralHoki88</a>
+                    <a href="https://rem-staffing.com/about-us/">About JendralHoki88</a>
                   </li>
                   <li>
-                    <a href="https://rem-staffing.com/services/">Referral Slot Online</a>
+                    <a href="https://rem-staffing.com/about-us/">Referral Slot Online</a>
                   </li>
                   <li>
-                    <a href="https://rem-staffing.com/services/">Situs Slot Terpercaya</a>
+                    <a href="https://rem-staffing.com/about-us/">Situs Slot Terpercaya</a>
                   </li>
                 </ul>
               </div>
@@ -2294,13 +2294,13 @@
                 </h4>
                 <ul class="list-unstyled">
                   <li>
-                    <a href="https://rem-staffing.com/services/">Help Center</a>
+                    <a href="https://rem-staffing.com/about-us/">Help Center</a>
                   </li>
                   <li>
-                    <a href="https://rem-staffing.com/services/">Forum</a>
+                    <a href="https://rem-staffing.com/about-us/">Forum</a>
                   </li>
                   <li>
-                    <a href="https://rem-staffing.com/services/">Blog</a>
+                    <a href="https://rem-staffing.com/about-us/">Blog</a>
                   </li>
                 </ul>
               </div>
@@ -2327,35 +2327,35 @@
                   <li>
                     <a
                       style="color: white"
-                      href="https://rem-staffing.com/services/"
+                      href="https://rem-staffing.com/about-us/"
                       >Contact</a
                     >
                   </li>
                   <li>
                     <a
                       style="color: white"
-                      href="https://rem-staffing.com/services/"
+                      href="https://rem-staffing.com/about-us/"
                       >Terms &amp; conditions</a
                     >
                   </li>
                   <li>
                     <a
                       style="color: white"
-                      href="https://rem-staffing.com/services/"
+                      href="https://rem-staffing.com/about-us/"
                       >Member terms</a
                     >
                   </li>
                   <li>
                     <a
                       style="color: white"
-                      href="https://rem-staffing.com/services/"
+                      href="https://rem-staffing.com/about-us/"
                       >Privacy policy</a
                     >
                   </li>
                   <li>
                     <a
                       style="color: white"
-                      href="https://rem-staffing.com/services/"
+                      href="https://rem-staffing.com/about-us/"
                       >Refund policy</a
                     >
                   </li>
@@ -2372,7 +2372,7 @@
                 <strong>
                   <a
                     style="color: #1c2b36"
-                    href="https://rem-staffing.com/services/"
+                    href="https://rem-staffing.com/about-us/"
                     >JendralHoki88</a
                   >
                 </strong>
